@@ -1,0 +1,6 @@
+{
+    "Notifications/Mods/SaveAnywhere/new_game_warning": "An autosave file was NOT created! If this is a new game you must save at the bed at least once.",
+    "Notifications/Mods/SaveAnywhere/location/dungeon": "You are currently in the dungeon! Your location was saved at the Mines entrance to avoid errors.",
+    "Notifications/Mods/SaveAnywhere/location/farm_building": "You are currently in a farm building! Your location was saved at the Farm entrance to avoid errors.",
+    "Notifications/Mods/SaveAnywhere/saving_disabled": "You are unable to save in the Deep Dungeon!"
+}

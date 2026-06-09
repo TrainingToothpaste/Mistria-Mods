@@ -1,0 +1,35 @@
+{
+    "object_prototypes": {
+        "furniture": {
+            "default": {
+                "placeable_locations": [
+                    "farm",
+                    "town",
+                    "narrows",
+                    "haydens_farm",
+                    "beach",
+                    "western_ruins",
+                    "summit",
+                    "eastern_road",
+                    "deep_woods",
+                    "dragonsworn_glade",
+                    "player_home",
+                    "player_home_west",
+                    "player_home_east",
+                    "player_home_upper_central",
+                    "player_home_upper_west",
+                    "player_home_upper_east",
+                    "large_greenhouse",
+                    "small_greenhouse",
+                    "small_coop",
+                    "medium_coop",
+                    "large_coop",
+                    "small_barn",
+                    "medium_barn",
+                    "large_barn"
+                ],
+                "rule_grid": "A"
+            }
+        }
+    }
+}
