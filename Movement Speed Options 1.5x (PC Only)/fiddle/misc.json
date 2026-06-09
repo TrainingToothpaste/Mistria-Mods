@@ -1,0 +1,14 @@
+{
+	"misc": {
+		"movement_speeds": {
+			"run": 3,
+			"swim": 1.5
+		}
+	},
+	"misc/movement_speeds": {
+			"run": 3,
+			"swim": 1.5
+		},
+	"misc/movement_speeds/run": 3,
+	"misc/movement_speeds/swim": 1.5,
+}

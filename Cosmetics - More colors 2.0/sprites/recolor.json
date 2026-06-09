@@ -1,0 +1,231 @@
+{
+  "spr_player_back_gear_basic_backpack_lut": {
+    "Location": "images/spr_player_back_gear_basic_backpack_lut_0.png"
+  },
+  "spr_player_back_gear_basic_cape_lut": {
+    "Location": "images/spr_player_back_gear_basic_cape_lut_0.png"
+  },
+  "spr_player_dress_berry_lut": {
+    "Location": "images/spr_player_dress_berry_lut_0.png"
+  },
+  "spr_player_dress_maid_lut": {
+    "Location": "images/spr_player_dress_maid_lut_0.png"
+  },
+  "spr_player_dress_spring_festival_lut": {
+    "Location": "images/spr_player_dress_spring_festival_lut_0.png"
+  },
+  "spr_player_face_gear_earrings_lut": {
+    "Location": "images/spr_player_face_gear_earrings_lut_0.png"
+  },
+  "spr_player_face_gear_face_mask_lut": {
+    "Location": "images/spr_player_face_gear_face_mask_lut_0.png"
+  },
+  "spr_player_face_gear_flower_earrings_lut": {
+    "Location": "images/spr_player_face_gear_flower_earrings_lut_0.png"
+  },
+  "spr_player_face_gear_glasses_lut": {
+    "Location": "images/spr_player_face_gear_glasses_lut_0.png"
+  },
+  "spr_player_face_gear_reading_glasses_lut": {
+    "Location": "images/spr_player_face_gear_reading_glasses_lut_0.png"
+  },
+  "spr_player_face_gear_sunglasses_lut": {
+    "Location": "images/spr_player_face_gear_sunglasses_lut_0.png"
+  },
+  "spr_player_head_aviator_goggles_lut": {
+    "Location": "images/spr_player_head_aviator_goggles_lut_0.png"
+  },
+  "spr_player_head_bandana_lut": {
+    "Location": "images/spr_player_head_bandana_lut_0.png"
+  },
+  "spr_player_head_baseball_cap_lut": {
+    "Location": "images/spr_player_head_baseball_cap_lut_0.png"
+  },
+  "spr_player_head_beekeeper_hat_lut": {
+    "Location": "images/spr_player_head_beekeeper_hat_lut_0.png"
+  },
+  "spr_player_head_beret_lut": {
+    "Location": "images/spr_player_head_beret_lut_0.png"
+  },
+  "spr_player_head_berry_crown_lut": {
+    "Location": "images/spr_player_head_berry_crown_lut_0.png"
+  },
+  "spr_player_head_berry_hat_lut": {
+    "Location": "images/spr_player_head_berry_hat_lut_0.png"
+  },
+  "spr_player_head_cap_basic_lut": {
+    "Location": "images/spr_player_head_cap_basic_lut_0.png"
+  },
+  "spr_player_head_clips_angel_wing_lut": {
+    "Location": "images/spr_player_head_clips_angel_wing_lut_0.png"
+  },
+  "spr_player_head_clips_bat_wing_lut": {
+    "Location": "images/spr_player_head_clips_bat_wing_lut_0.png"
+  },
+  "spr_player_head_clips_moon_lut": {
+    "Location": "images/spr_player_head_clips_moon_lut_0.png"
+  },
+  "spr_player_head_clips_star_lut": {
+    "Location": "images/spr_player_head_clips_star_lut_0.png"
+  },
+  "spr_player_head_clips_strawberry_lut": {
+    "Location": "images/spr_player_head_clips_strawberry_lut_0.png"
+  },
+  "spr_player_head_cowboy_hat_basic_lut": {
+    "Location": "images/spr_player_head_cowboy_hat_basic_lut_0.png"
+  },
+  "spr_player_head_crystal_helmet_lut": {
+    "Location": "images/spr_player_head_crystal_helmet_lut_0.png"
+  },
+  "spr_player_head_devil_horns_lut": {
+    "Location": "images/spr_player_head_devil_horns_lut_0.png"
+  },
+  "spr_player_head_explorer_hat_lut": {
+    "Location": "images/spr_player_head_explorer_hat_lut_0.png"
+  },
+  "spr_player_head_flower_crown_lut": {
+    "Location": "images/spr_player_head_flower_crown_lut_0.png"
+  },
+  "spr_player_head_flower_top_hat_lut": {
+    "Location": "images/spr_player_head_flower_top_hat_lut_0.png"
+  },
+  "spr_player_head_halo_lut": {
+    "Location": "images/spr_player_head_halo_lut_0.png"
+  },
+  "spr_player_head_headband_basic_lut": {
+    "Location": "images/spr_player_head_headband_basic_lut_0.png"
+  },
+  "spr_player_head_hijab_lut": {
+    "Location": "images/spr_player_head_hijab_lut_0.png"
+  },
+  "spr_player_head_miners_helmet_lut": {
+    "Location": "images/spr_player_head_miners_helmet_lut_0.png"
+  },
+  "spr_player_head_mini_horns_lut": {
+    "Location": "images/spr_player_head_mini_horns_lut_0.png"
+  },
+  "spr_player_head_rain_hat_lut": {
+    "Location": "images/spr_player_head_rain_hat_lut_0.png"
+  },
+  "spr_player_head_ribbons_basic_lut": {
+    "Location": "images/spr_player_head_ribbons_basic_lut_0.png"
+  },
+  "spr_player_head_short_bow_lut": {
+    "Location": "images/spr_player_head_short_bow_lut_0.png"
+  },
+  "spr_player_head_special_flower_crown_lut": {
+    "Location": "images/spr_player_head_special_flower_crown_lut_0.png"
+  },
+  "spr_player_head_verdigris_helmet_lut": {
+    "Location": "images/spr_player_head_verdigris_helmet_lut_0.png"
+  },
+  "spr_player_head_witch_hat_lut": {
+    "Location": "images/spr_player_head_witch_hat_lut_0.png"
+  },
+  "spr_player_overalls_lut": {
+    "Location": "images/spr_player_overalls_lut_0.png"
+  },
+  "spr_player_pants_beekeeper_lut": {
+    "Location": "images/spr_player_pants_beekeeper_lut_0.png"
+  },
+  "spr_player_pants_explorer_lut": {
+    "Location": "images/spr_player_pants_explorer_lut_0.png"
+  },
+  "spr_player_pants_lut": {
+    "Location": "images/spr_player_pants_lut_0.png"
+  },
+  "spr_player_robe_dragon_cleric_lut": {
+    "Location": "images/spr_player_robe_dragon_cleric_lut_0.png"
+  },
+  "spr_player_robe_earth_lut": {
+    "Location": "images/spr_player_robe_earth_lut_0.png"
+  },
+  "spr_player_robe_tide_lut": {
+    "Location": "images/spr_player_robe_tide_lut_0.png"
+  },
+  "spr_player_shorts_fishing_lut": {
+    "Location": "images/spr_player_shorts_fishing_lut_0.png"
+  },
+  "spr_player_suit_berry_lut": {
+    "Location": "images/spr_player_suit_berry_lut_0.png"
+  },
+  "spr_player_suit_miner_lut": {
+    "Location": "images/spr_player_suit_miner_lut_0.png"
+  },
+  "spr_player_suit_spring_festival_lut": {
+    "Location": "images/spr_player_suit_spring_festival_lut_0.png"
+  },
+  "spr_player_top_adventurer_lut": {
+    "Location": "images/spr_player_top_adventurer_lut_0.png"
+  },
+  "spr_player_top_ancient_witch_lut": {
+    "Location": "images/spr_player_top_ancient_witch_lut_0.png"
+  },
+  "spr_player_top_caldosian_lut": {
+    "Location": "images/spr_player_top_caldosian_lut_0.png"
+  },
+  "spr_player_top_cloth_armor_lut": {
+    "Location": "images/spr_player_top_cloth_armor_lut_0.png"
+  },
+  "spr_player_top_crystal_armor_lut": {
+    "Location": "images/spr_player_top_crystal_armor_lut_0.png"
+  },
+  "spr_player_top_exalted_lut": {
+    "Location": "images/spr_player_top_exalted_lut_0.png"
+  },
+  "spr_player_top_explorer_lut": {
+    "Location": "images/spr_player_top_explorer_lut_0.png"
+  },
+  "spr_player_top_fishing_vest_lut": {
+    "Location": "images/spr_player_top_fishing_vest_lut_0.png"
+  },
+  "spr_player_top_long_sleeve_beekeeper_lut": {
+    "Location": "images/spr_player_top_long_sleeve_beekeeper_lut_0.png"
+  },
+  "spr_player_top_plaid_flannel_lut": {
+    "Location": "images/spr_player_top_plaid_flannel_lut_0.png"
+  },
+  "spr_player_top_ranger_lut": {
+    "Location": "images/spr_player_top_ranger_lut_0.png"
+  },
+  "spr_player_top_verdigris_armor_lut": {
+    "Location": "images/spr_player_top_verdigris_armor_lut_0.png"
+  },
+  "spr_player_underwear_lut": {
+    "Location": "images/spr_player_underwear_lut_0.png"
+  },
+  "spr_ui_item_wearable_dress_spring_festival": {
+    "Location": "images/spr_ui_item_wearable_dress_spring_festival_0.png",
+    "isUiSprite": true
+  },
+  "spr_player_shoes_leather_lut": {
+    "Location": "images/spr_player_shoes_leather_lut_0.png"
+  },
+    "spr_player_robe_fire_lut": {
+    "Location": "images/spr_player_robe_fire_lut_0.png"
+  },
+      "spr_player_top_noble_tunic_lut": {
+    "Location": "images/spr_player_top_noble_tunic_lut_0.png"
+  },     
+	"spr_player_head_fighter_headband_lut": {
+    "Location": "images/spr_player_head_fighter_headband_lut_0.png"
+  },
+  "spr_player_shoes_boots_farmer_lut": {
+    "Location": "images/spr_player_shoes_boots_farmer_lut_0.png"
+  },
+   "spr_player_top_lut": {
+    "Location": "images/spr_player_top_lut_0.png"
+  },     
+	"spr_player_head_dancer_flower_lut": {
+    "Location": "images/spr_player_head_dancer_flower_lut_0.png"
+  },     
+	"spr_player_skirt_dancer_lut": {
+    "Location": "images/spr_player_skirt_dancer_lut_0.png"
+  },
+	"spr_player_top_dancer_lut": {
+    "Location": "images/spr_player_top_dancer_lut_0.png"
+	},
+	"spr_player_top_rogue_lut": {
+    "Location": "images/spr_player_top_rogue_lut_0.png"
+	}
+}
