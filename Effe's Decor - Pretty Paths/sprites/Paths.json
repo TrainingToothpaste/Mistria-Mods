@@ -1,0 +1,67 @@
+{
+  "spr_furniture_large_paving_stone_v1": {
+    "Location": "images/large_v1/v1.png"
+},
+  "spr_ui_item_decor_large_paving_stone_v1": {
+  "Location": "images/large_v1/UI_icon.png",
+  "IsUiSprite": true
+},
+  "spr_furniture_large_paving_stone_v2": {
+    "Location": "images/large_v2/v2.png"
+},
+  "spr_decor_starter_stone_path_spring_1": {
+    "Location": "images/small_v1/spring.png"
+},
+  "spr_decor_starter_stone_path_summer_1": {
+    "Location": "images/small_v1/summer.png"
+},
+  "spr_decor_starter_stone_path_autumn_1": {
+    "Location": "images/small_v1/autumn.png"
+},
+  "spr_decor_starter_stone_path_winter_1": {
+    "Location": "images/small_v1/winter.png"
+},
+  "spr_decor_starter_stone_path_shadow_1": {
+    "Location": "images/small_v1/shadow.png"
+},
+  "spr_ui_item_decor_starter_stone_path": {
+  "Location": "images/small_v1/UI_icon.png",
+  "IsUiSprite": true
+},
+  "spr_ui_item_decor_starter_stone_path_outline": {
+  "Location": "images/small_v1/UI_icon_outline.png",
+  "IsUiSprite": true
+},
+  "spr_decor_starter_stone_path_spring_2": {
+    "Location": "images/small_v2/spring.png"
+},
+  "spr_decor_starter_stone_path_summer_2": {
+    "Location": "images/small_v2/summer.png"
+},
+  "spr_decor_starter_stone_path_autumn_2": {
+    "Location": "images/small_v2/autumn.png"
+},
+  "spr_decor_starter_stone_path_winter_2": {
+    "Location": "images/small_v2/winter.png"
+},
+  "spr_decor_starter_stone_path_shadow_2": {
+    "Location": "images/small_v2/shadow.png"
+},
+  "spr_ui_item_decor_starter_stone_path_single": {
+  "Location": "images/small_v2/UI_icon.png",
+  "IsUiSprite": true
+},
+  "spr_ui_item_decor_starter_stone_path_single_outline": {
+  "Location": "images/small_v2/UI_icon_outline.png",
+  "IsUiSprite": true
+},
+  "spr_furniture_dragon_priestess_fountain_spring_v1_south": {
+    "Location": "images/statue/v1.png"
+},
+  "spr_furniture_dragon_priestess_fountain_spring_v2_south": {
+    "Location": "images/statue/v2.png"
+},
+  "spr_furniture_dragon_priestess_fountain_shadow_south": {
+    "Location": "images/statue/shadow.png"
+  }
+}  

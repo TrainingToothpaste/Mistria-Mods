@@ -1,0 +1,127 @@
+{
+  "object_prototypes": {
+    "furniture": {
+            "picnic_sunflower_vase_pink": {
+        "south": {
+          "offset": [
+            3,
+            2
+          ]
+        },
+		"north": {
+		 "sprite": "spr_decor_picnic_sunflower_vase_pink_spring_north",
+		 "offset": [
+			0,
+			0
+			]
+		 }
+		},
+      "picnic_sunflower_vase_red": {
+		"south": {
+          "offset": [
+            5,
+            8
+          ]
+        },
+		"north": {
+		 "sprite": "spr_decor_picnic_sunflower_vase_red_spring_north",
+		 "offset": [
+			0,
+			8
+			]
+		 },
+		 "east": {
+			 "sprite": "spr_decor_picnic_sunflower_vase_red_spring_east",
+			 "offset": [
+			 0,
+			 8
+			 ]
+		 },
+		 "west": {
+			 "sprite": "spr_decor_picnic_sunflower_vase_red_spring_west",
+			 "offset": [
+			 0,
+			 8
+			 ]
+		}
+	  },
+      "cabin_wall_shelf_red": {
+        "size": [
+          3,
+          7
+        ],
+        "south": {
+          "offset": [
+            8,
+            37
+          ]
+        }
+      },
+	  "basic_flower_pot_orange": {
+        "size": [
+          2,
+          2
+        ],
+        "south": {
+          "offset": [
+            6,
+            0
+          ]
+        },
+		"north": {
+		 "sprite": "spr_furniture_basic_flower_pot_v1_spring_north",
+		 "offset": [
+			0,
+			0
+			]
+		 }
+      },
+      "basic_flower_pot_white": {
+        "south": {
+          "offset": [
+            5,
+            0
+          ]
+        },
+		"north": {
+		 "sprite": "spr_furniture_basic_flower_pot_v2_spring_north",
+		 "offset": [
+			0,
+			0
+			]
+		 }
+      },
+	   "chess_rook_light_wood": {
+        "south": {
+          "sprite": "spr_furniture_chess_rook_light_wood",
+          "offset": [
+            2,
+            7
+          ]
+        },
+		"north": {
+		 "sprite": "spr_furniture_chess_rook_light_wood_north",
+		 "offset": [
+			0,
+			0
+			]
+		 }
+      },
+	    "spring_potted_tree_purple": {
+        "south": {
+          "offset": [
+            12,
+            10
+          ]
+        },
+		"north": {
+			"sprite": "spr_furniture_spring_potted_tree_purple_spring_north",
+			"offset": [
+			0,
+			0
+			]
+      }
+	}
+  }
+}
+}

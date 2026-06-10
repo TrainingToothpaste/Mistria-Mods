@@ -1,0 +1,48 @@
+{
+  "items": {
+    "furniture": {
+      "chess_set": {
+        "chess_pawn_light_wood": {
+          "recipe": null
+          },
+        "chess_rook_light_wood": {
+          "recipe": null
+          },
+		 "chess_queen_light_wood": {
+			"recipe": null	
+        },
+		 "chess_king_light_wood": {
+			"recipe": null	
+        },
+		 "chess_knight_light_wood": {
+			"recipe": null	
+        },
+		 "chess_bishop_light_wood": {
+			"recipe": null	
+        }
+      },
+	  "rustic_cabin_set": {
+		   "cabin_stove_walnut": {
+			"recipe": null
+		},
+		   "cabin_lamp_cherry": {
+			"recipe": null
+		},
+		   "cabin_lamp_walnut": {
+			"recipe": null
+		},
+		   "cabin_lamp_oak": {
+			"recipe": null
+		   }
+	  },
+	  "cavern_set": {
+		  "cavern_floor_brazier_blue": {
+			"recipe": null
+		  },
+		  "cavern_floor_brazier_blue": {
+			"recipe": null
+		  }
+		}
+	  }
+	}
+}

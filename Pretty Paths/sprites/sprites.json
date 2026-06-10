@@ -1,0 +1,131 @@
+{
+  "path_bricks_spring": {
+    "Location": "images/bricks/spring",
+    "IsAnimated": true,
+    "OriginX": 16,
+    "OriginY": 13
+  },
+  "path_bricks_winter": {
+    "Location": "images/bricks/winter",
+    "IsAnimated": true,
+    "OriginX": 16,
+    "OriginY": 13
+  },
+  "path_bricks_ui": {
+    "Location": "images/bricks/pathing_ui.png",
+    "OutlineLocation": "images/bricks/pathing_ui_outline.png",
+    "IsUiSprite": true
+  },
+  "path_bricks_preview": {
+    "Location": "images/bricks/path_preview.png"
+  },
+    "path_fairy_spring": {
+    "Location": "images/fairy_path/spring",
+    "IsAnimated": true,
+    "OriginX": 16,
+    "OriginY": 13
+  },
+  "path_fairy_winter": {
+    "Location": "images/fairy_path/winter",
+    "IsAnimated": true,
+    "OriginX": 16,
+    "OriginY": 13
+  },
+  "path_fairy_ui": {
+    "Location": "images/fairy_path/pathing_ui.png",
+    "OutlineLocation": "images/fairy_path/pathing_ui_outline.png",
+    "IsUiSprite": true
+  },
+  "path_fairy_preview": {
+    "Location": "images/fairy_path/path_preview.png"
+  },
+    "path_mossy_spring": {
+    "Location": "images/mossy_path/spring",
+    "IsAnimated": true,
+    "OriginX": 16,
+    "OriginY": 13
+  },
+  "path_mossy_winter": {
+    "Location": "images/mossy_path/winter",
+    "IsAnimated": true,
+    "OriginX": 16,
+    "OriginY": 13
+  },
+  "path_mossy_ui": {
+    "Location": "images/mossy_path/pathing_ui.png",
+    "OutlineLocation": "images/mossy_path/pathing_ui_outline.png",
+    "IsUiSprite": true
+  },
+  "path_mossy_preview": {
+    "Location": "images/mossy_path/path_preview.png"
+  },
+  "path_dirt_spring": {
+    "Location": "images/path/spring",
+    "IsAnimated": true,
+    "OriginX": 16,
+    "OriginY": 13
+  },
+  "path_dirt_winter": {
+    "Location": "images/path/winter",
+    "IsAnimated": true,
+    "OriginX": 16,
+    "OriginY": 13
+  },
+    "path_dirt_ui": {
+    "Location": "images/path/pathing_ui.png",
+    "OutlineLocation": "images/path/pathing_ui_outline.png",
+    "IsUiSprite": true
+  },
+  "path_dirt_preview": {
+    "Location": "images/path/path_preview.png"
+  },
+  "path_stonedirt_spring": {
+    "Location": "images/stonedirt_path/spring",
+    "IsAnimated": true,
+    "OriginX": 16,
+    "OriginY": 13
+  },
+  "path_stonedirt_winter": {
+    "Location": "images/stonedirt_path/winter",
+    "IsAnimated": true,
+    "OriginX": 16,
+    "OriginY": 13
+  },
+  "path_stonedirt_ui": {
+    "Location": "images/stonedirt_path/pathing_ui.png",
+    "OutlineLocation": "images/stonedirt_path/pathing_ui_outline.png",
+    "IsUiSprite": true
+  },
+  "path_stonedirt_preview": {
+    "Location": "images/stonedirt_path/path_preview.png"
+  },
+  "path_stoney_spring": {
+    "Location": "images/stoney_path/spring",
+    "IsAnimated": true,
+    "OriginX": 16,
+    "OriginY": 13
+  },
+  "path_stoney_winter": {
+    "Location": "images/stoney_path/winter",
+    "IsAnimated": true,
+    "OriginX": 16,
+    "OriginY": 13
+  },
+  "path_stoney_ui": {
+    "Location": "images/stoney_path/pathing_ui.png",
+    "OutlineLocation": "images/stoney_path/pathing_ui_outline.png",
+    "IsUiSprite": true
+  },
+  "path_stoney_preview": {
+    "Location": "images/stoney_path/path_preview.png"
+  },
+  "pathing_scroll_bundle": {
+    "Location": "images/scroll.png",
+    "OutlineLocation": "images/scroll_outline.png",
+    "IsUiSprite": true
+  },
+    "pathing_store_icon": {
+    "Location": "images/pathing_icon.png",
+    "IsUiSprite": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+	"spr_furniture_stone_lamp_v1_shadow_off": {
+    "regular_sprite_name": "spr_furniture_stone_lamp_spring_v1_off",
+    "sprite": "images/fountain/big_shadow.png",
+    "is_animated": false
+  },
+	"spr_furniture_stone_lamp_v1_shadow_on": {
+    "regular_sprite_name": "spr_furniture_stone_lamp_spring_v1_on",
+    "sprite": "images/fountain/big_shadow.png",
+    "is_animated": false
+  },
+    "spr_furniture_stone_lamp_v3_shadow_off": {
+    "regular_sprite_name": "spr_furniture_stone_lamp_spring_v3_off",
+    "sprite": "images/fountain/small_shadow.png",
+    "is_animated": false
+  },
+	"spr_furniture_stone_lamp_v3_shadow_on": {
+    "regular_sprite_name": "spr_furniture_stone_lamp_spring_v3_on",
+    "sprite": "images/fountain/small_shadow.png",
+    "is_animated": false
+  }
+}
+  

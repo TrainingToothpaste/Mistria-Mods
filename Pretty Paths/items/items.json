@@ -1,0 +1,199 @@
+{
+    "pathing_scroll_bundle": {
+    "overwrites_other_mod": false,
+    "name": "Pathing Scroll",
+    "description": "A scroll with the latest pathing techniques",
+    "icon_sprite": "pathing_scroll_bundle",
+    "soulbound": true,
+    "set_unlock": "pathing",
+    "tags": [
+      "scroll",
+      "pathing",
+      "blacklist_popup",
+      "stampingfeet"
+    ],
+    "value": {
+      "store": 500
+    }
+  },
+  "pathing_bricks": {
+    "overwrites_other_mod": false,
+    "name": "Bricks Pathing",
+    "description": "A simple brick path with moss.",
+    "icon_sprite": "path_bricks_ui",
+    "crafting_preview_sprite": "path_bricks_preview",
+    "object": "pathing_bricks",
+    "recipe_is_default": true,
+    "tags": [
+      "fencing",
+      "extra fencing",
+      "pathing",
+      "stampingfeet"
+    ],
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+          "count": 1,
+          "item": "ore_stone"
+      },
+      {
+          "hours": 0,
+          "minutes": 10
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 1
+    }
+  },
+  "pathing_fairy": {
+    "overwrites_other_mod": false,
+    "name": "Fairy Pathing",
+    "description": "A simple fairy path with flowers.",
+    "icon_sprite": "path_fairy_ui",
+    "crafting_preview_sprite": "path_fairy_preview",
+    "object": "pathing_fairy",
+    "recipe_is_default": true,
+    "tags": [
+      "fencing",
+      "extra fencing",
+      "pathing",
+      "stampingfeet"
+    ],
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+          "count": 1,
+          "item": "fiber"
+      },
+      {
+          "hours": 0,
+          "minutes": 10
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 1
+    }
+  },
+  "pathing_dirt": {
+    "overwrites_other_mod": false,
+    "name": "Dirt Pathing",
+    "description": "A simple dirt path.",
+    "icon_sprite": "path_dirt_ui",
+    "crafting_preview_sprite": "path_dirt_preview",
+    "object": "pathing_dirt",
+    "recipe_is_default": true,
+    "tags": [
+      "fencing",
+      "extra fencing",
+      "pathing",
+      "stampingfeet"
+    ],
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+          "count": 1,
+          "item": "basic_wood"
+      },
+      {
+          "hours": 0,
+          "minutes": 10
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 1
+    }
+  },
+  "pathing_mossy": {
+    "overwrites_other_mod": false,
+    "name": "Mossy Pathing",
+    "description": "A simple mossy path with flowers.",
+    "icon_sprite": "path_mossy_ui",
+    "crafting_preview_sprite": "path_mossy_preview",
+    "object": "pathing_mossy",
+    "recipe_is_default": true,
+    "tags": [
+      "fencing",
+      "extra fencing",
+      "pathing",
+      "stampingfeet"
+    ],
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+          "count": 1,
+          "item": "fiber"
+      },
+      {
+          "hours": 0,
+          "minutes": 10
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 1
+    }
+  },
+  "pathing_stonedirt": {
+    "overwrites_other_mod": false,
+    "name": "Stone and Dirt Pathing",
+    "description": "A simple stone and dirt path.",
+    "icon_sprite": "path_stonedirt_ui",
+    "crafting_preview_sprite": "path_stonedirt_preview",
+    "object": "pathing_stonedirt",
+    "recipe_is_default": true,
+    "tags": [
+      "fencing",
+      "extra fencing",
+      "pathing",
+      "stampingfeet"
+    ],
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+          "count": 1,
+          "item": "ore_stone"
+      },
+      {
+          "hours": 0,
+          "minutes": 10
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 1
+    }
+  },
+  "pathing_stoney": {
+    "overwrites_other_mod": false,
+    "name": "Stone Pathing",
+    "description": "A simple stone path.",
+    "icon_sprite": "path_stoney_ui",
+    "crafting_preview_sprite": "path_stoney_preview",
+    "object": "pathing_stoney",
+    "recipe_is_default": true,
+    "tags": [
+      "fencing",
+      "extra fencing",
+      "pathing",
+      "stampingfeet"
+    ],
+    "crafting_level_requirement": 1,
+    "recipe": [
+      {
+          "count": 1,
+          "item": "ore_stone"
+      },
+      {
+          "hours": 0,
+          "minutes": 10
+      }
+    ],
+    "value": {
+      "bin": "self.recipe * 1.1",
+      "store": 1
+    }
+  }
+}

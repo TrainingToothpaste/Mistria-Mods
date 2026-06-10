@@ -1,0 +1,335 @@
+{
+  "object_prototypes": {
+    "furniture": {
+      "cabin_lamp_red": {
+        "interaction_turn_on": {
+          "light": "xs",
+          "light_offset": [
+            0,
+            -6
+          ]
+        },
+		"collision_grid": "0",		
+		"footstep": "water",
+        "south": {
+          "offset": [
+            0,
+            0
+          ]
+		}
+	  },
+      "cabin_lamp_blue": {
+        "interaction_turn_on": {
+          "light": "xs",
+          "light_offset": [
+            0,
+            -6
+          ]
+        },
+		"collision_grid": "0",		
+		"footstep": "water",
+        "south": {
+          "offset": [
+            0,
+            0
+          ]
+		}
+	  },
+      "cabin_lamp_yellow": {
+        "interaction_turn_on": {
+          "light": "xs",
+          "light_offset": [
+            0,
+            -6
+          ]
+        },
+		"collision_grid": "0",		
+		"footstep": "water",
+        "south": {
+          "offset": [
+            0,
+            0
+          ]
+		}
+	  },	  
+		"cavern_floor_brazier_blue": {
+        "interaction_turn_on": {
+          "light": "xs",
+          "light_offset": [
+            0,
+            -6
+          ]
+        },
+		"collision_grid": "0",
+		"footstep": "water",
+        "south": {
+          "offset": [
+            0,
+            0
+          ]
+        }
+		},
+		"cavern_floor_brazier_orange": {
+        "interaction_turn_on": {
+          "light": "xs",
+          "light_offset": [
+            0,
+            -6
+          ]
+        },
+		"collision_grid": "0",
+		"footstep": "water",
+        "south": {
+          "offset": [
+            0,
+            0
+          ]
+        }
+		},
+		"chess_queen_light_wood": {
+			"size": [
+				2,
+				2
+			],			
+			"collision_grid": "0",
+			"footstep": "water",
+			"depth_to_floor": true,
+			"rug": true,
+			"south": {
+				"offset": [
+				0,
+				11
+			]
+		}
+      },
+	  	"chess_king_light_wood": {
+			"size": [
+				4,
+				4
+			],			
+			"collision_grid": "0",
+			"footstep": "water",
+			"depth_to_floor": true,
+			"rug": true,
+			"south": {
+				"offset": [
+				0,
+				11
+			]
+		},
+			"east": {
+				"sprite": "spr_furniture_chess_king_light_wood_east",
+				"offset": [
+				0,
+				11
+			]
+		},	
+			"north": {
+				"sprite": "spr_furniture_chess_king_light_wood_north",
+				"offset": [
+				0,
+				11
+			]
+		},
+			"west": {
+				"sprite": "spr_furniture_chess_king_light_wood_west",
+				"offset": [
+				0,
+				11
+			]
+		}	
+      },
+	  	  "chess_pawn_light_wood": {
+			"size": [
+				4,
+				4
+			],			
+			"collision_grid": "0",
+			"footstep": "water",
+			"depth_to_floor": true,
+			"rug": true,
+			"south": {
+				"offset": [
+				0,
+				11
+			]
+		},
+			"east": {
+				"sprite": "spr_furniture_chess_pawn_light_wood_east",
+				"offset": [
+				0,
+				11
+			]
+		},	
+			"north": {
+				"sprite": "spr_furniture_chess_pawn_light_wood_north",
+				"offset": [
+				0,
+				11
+			]
+		},
+			"west": {
+				"sprite": "spr_furniture_chess_pawn_light_wood_west",
+				"offset": [
+				0,
+				11
+			]
+		}	
+	 },
+	  	"chess_knight_light_wood": {
+			"size": [
+				2,
+				2
+			],			
+			"collision_grid": "0",
+			"footstep": "water",
+			"depth_to_floor": true,
+			"rug": true,
+			"south": {
+				"sprite": "spr_furniture_chess_knight_light_wood",
+				"offset": [
+				0,
+				11
+			]
+		},
+			"east": {
+				"sprite": "spr_furniture_chess_knight_light_wood_east",
+				"offset": [
+				0,
+				11
+			]
+		},	
+			"north": {
+				"sprite": "spr_furniture_chess_knight_light_wood_north",
+				"offset": [
+				0,
+				-5
+			]
+		},
+			"west": {
+				"sprite": "spr_furniture_chess_knight_light_wood_west",
+				"offset": [
+				-16,
+				11
+			]
+		}	
+      },
+	  	"chess_bishop_light_wood": {
+			"size": [
+				2,
+				2
+			],			
+			"collision_grid": "0",
+			"footstep": "water",
+			"depth_to_floor": true,
+			"rug": true,
+			"south": {
+				"offset": [
+				0,
+				11
+			]
+		},
+			"east": {
+				"sprite": "spr_furniture_chess_bishop_light_wood_east",
+				"offset": [
+				0,
+				11
+			]
+		},	
+			"north": {
+				"sprite": "spr_furniture_chess_bishop_light_wood_north",
+				"offset": [
+				0,
+				-5
+			]
+		},
+			"west": {
+				"sprite": "spr_furniture_chess_bishop_light_wood_west",
+				"offset": [
+				-16,
+				11
+			]
+		}	
+      },
+      "cabin_stove_short": {
+		  "size": [
+		  2,
+		  2
+		  ],
+		  "rule_grid": null,       
+		  "interaction_turn_on": {
+          "light": "xs",
+          "light_offset": [
+            0,
+            -6
+          ]
+        },
+		"collision_grid": "0",		
+		"footstep": "water",
+        "south": {
+          "sprite": "spr_furniture_cabin_stove_v2_spring_off",
+          "offset": [
+            0,
+            0
+          ],
+          "on_sprite": "spr_furniture_cabin_stove_v2_spring_on"
+        }
+      },
+	    "stone_lamp_v1": {
+		"size": [
+          12,
+          11
+        ],
+        "collision_grid": [
+          "011111111110",
+          "111111111111",
+          "111111111111",
+		  "111111111111",
+		  "111111111111",
+		  "111111111111",
+		  "111111111111",
+		  "111111111111",
+		  "111111111111",
+		  "111111111111",
+          "011111111110"
+        ],
+        "interaction_turn_on": {
+          "light": "xs",
+          "light_offset": [
+            0,
+            -4
+          ]
+        },
+        "south": {
+          "sprite": "spr_furniture_stone_lamp_spring_v1_off",
+          "offset": [
+            8,
+            8
+          ],
+          "on_sprite": "spr_furniture_stone_lamp_spring_v1_on"
+        }
+      },
+	    "stone_lamp_v3": {
+		"size": [
+          2,
+          2
+        ],
+		"interaction_turn_on": {
+          "light": "xs",
+          "light_offset": [
+            0,
+            -4
+          ]
+        },
+        "south": {
+          "sprite": "spr_furniture_stone_lamp_spring_v3_off",
+          "offset": [
+            8,
+            8
+          ],
+          "on_sprite": "spr_furniture_stone_lamp_spring_v3_on"
+        }
+      }	  
+	}	  
+  }
+}

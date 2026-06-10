@@ -1,0 +1,116 @@
+{
+  "pathing_bricks": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "collision_grid": "0",
+      "on_twos_only": true,
+      "fence": true,
+      "depth_to_floor": true,
+      "footstep": "stone",
+      "south": {
+        "sprite": "path_bricks_spring",
+        "winter_sprite": "path_bricks_winter",
+        "offset": [
+          8,
+          5
+        ]
+      }
+    }
+  },
+  "pathing_fairy": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "collision_grid": "0",
+      "on_twos_only": true,
+      "fence": true,
+      "depth_to_floor": true,
+      "footstep": "grass",
+      "south": {
+        "sprite": "path_fairy_spring",
+        "winter_sprite": "path_fairy_winter",
+        "offset": [
+          8,
+          5
+        ]
+      }
+    }
+  },
+  "pathing_mossy": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "collision_grid": "0",
+      "on_twos_only": true,
+      "fence": true,
+      "depth_to_floor": true,
+      "footstep": "grass",
+      "south": {
+        "sprite": "path_mossy_spring",
+        "winter_sprite": "path_mossy_winter",
+        "offset": [
+          8,
+          5
+        ]
+      }
+    }
+  },
+  "pathing_dirt": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "collision_grid": "0",
+      "on_twos_only": true,
+      "fence": true,
+      "depth_to_floor": true,
+      "footstep": "dirt",
+      "south": {
+        "sprite": "path_dirt_spring",
+        "winter_sprite": "path_dirt_winter",
+        "offset": [
+          8,
+          5
+        ]
+      }
+    }
+  },
+  "pathing_stonedirt": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "collision_grid": "0",
+      "on_twos_only": true,
+      "fence": true,
+      "depth_to_floor": true,
+      "footstep": "stone",
+      "south": {
+        "sprite": "path_stonedirt_spring",
+        "winter_sprite": "path_stonedirt_winter",
+        "offset": [
+          8,
+          5
+        ]
+      }
+    }
+  },
+  "pathing_stoney": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "collision_grid": "0",
+      "on_twos_only": true,
+      "fence": true,
+      "depth_to_floor": true,
+      "footstep": "stone",
+      "south": {
+        "sprite": "path_stoney_spring",
+        "winter_sprite": "path_stoney_winter",
+        "offset": [
+          8,
+          5
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+	"misc": {
+		"bugs": {
+			"low_spawn": 25,
+			"in_tree_chance": 25,
+			"in_grass_chance": 5
+		},
+	},
+		"misc/bugs": {
+		"low_spawn": 25,
+		"in_tree_chance": 25,
+		"in_grass_chance": 5
+		},
+	"misc/bugs/in_grass_chance": 5,
+	"misc/bugs/in_tree_chance": 25,
+	"misc/bugs/low_spawn": 25,
+	"locations": {
+		"default": {
+			"bugs": 10
+		},
+		"farm": {
+			"bugs": 15
+		},
+		"town": {
+			"bugs": 25
+		},
+		"eastern_road": {
+			"bugs": 20
+		},
+		"narrows": {
+			"bugs": 10
+		},
+		"western_ruins": {
+			"bugs": 10
+		},
+		"beach": {
+			"bugs": 20
+		},
+		"deep_woods": {
+			"bugs": 30
+		},
+		"haydens_farm": {
+			"bugs": 10
+		}
+	},
+	"locations/default": {
+		"bugs": 10
+	},
+	"locations/farm": {
+		"bugs": 15
+	},
+	"locations/town": {
+		"bugs": 25
+	},
+	"locations/eastern_road": {
+		"bugs": 20
+	},
+	"locations/narrows": {
+		"bugs": 10
+	},
+	"locations/western_ruins": {
+		"bugs": 10
+	},
+	"locations/beach": {
+		"bugs": 20
+	},
+	"locations/deep_woods": {
+		"bugs": 30
+	},
+	"locations/haydens_farm": {
+		"bugs": 10
+	},
+	"locations/beach/bugs": 30,
+	"locations/deep_woods/bugs": 20,
+	"locations/default/bugs": 10,
+	"locations/eastern_road/bugs": 20,
+	"locations/farm/bugs": 15,
+	"locations/haydens_farm/bugs": 10,
+	"locations/narrows/bugs": 10,
+	"locations/town/bugs": 25,
+	"locations/western_ruins/bugs": 10,
+}
