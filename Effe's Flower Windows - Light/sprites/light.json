@@ -1,0 +1,16 @@
+{
+	"spr_furniture_haunted_attic_wall_window_dark_spring": {
+		"Location": "images/window1.png"
+},
+	"spr_furniture_haunted_attic_wall_window_dusty_spring": {
+		"Location": "images/window2.png"
+},
+	"spr_ui_item_furniture_haunted_attic_wall_window_dark": {
+		"Location": "images/UI_icon_1.png",
+		"IsUiSprite": true
+},
+	"spr_ui_item_furniture_haunted_attic_wall_window_dusty": {
+		"Location": "images/UI_icon_2.png",
+		"IsUiSprite": true
+	}
+}

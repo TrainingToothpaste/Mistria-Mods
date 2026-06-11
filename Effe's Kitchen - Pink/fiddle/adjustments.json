@@ -1,0 +1,13 @@
+{
+  "object_prototypes": {
+    "furniture": {
+		      "inn_counter": {
+        "child_grid": null
+		},
+		"adept_kitchen": {
+        "collision_grid": null,
+        "rule_grid": null
+	}
+  }
+}
+}

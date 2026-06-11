@@ -1,0 +1,346 @@
+{
+	"spr_furniture_cabin_stove_v2_spring_off": {
+	"Location": "images/edge/on/water_topleft_1.png",
+	"OriginX": 8,
+	"OriginY": 12
+},
+	"spr_furniture_cabin_stove_v2_spring_on": {
+	"Location": "images/edge/on",
+	"IsAnimated": true,
+	"OriginX": 8,
+	"OriginY": 12
+},
+	"spr_ui_item_furniture_cabin_stove_v2": {
+	"Location": "images/edge/UI_icon.png",
+	"IsUiSprite": true
+},	
+	"spr_ui_item_furniture_cabin_stove_v2_outline": {
+	"Location": "images/edge/UI_icon_outline.png",
+	"IsUiSprite": true
+},	
+	"spr_furniture_cabin_stove_v2_shadow_off": {
+	"Location": "images/shadow.png"
+},	
+	"spr_furniture_cabin_stove_v2_shadow_on": {
+	"Location": "images/shadow.png"
+},	
+	"spr_furniture_cabin_lamp_v3_spring_off": {
+	"Location": "images/edge/topright_on/water_topright_1.png",
+	"OriginX": -2,
+	"OriginY": 12
+},
+	"spr_furniture_cabin_lamp_v3_spring_on": {
+	"Location": "images/edge/topright_on",
+	"IsAnimated": true,
+	"OriginX": -2,
+	"OriginY": 12
+},
+	"spr_ui_item_furniture_cabin_lamp_v3": {
+	"Location": "images/edge/topright_on/UI_icon.png",
+	"IsUiSprite": true
+},	
+	"spr_ui_item_furniture_cabin_lamp_v3_outline": {
+	"Location": "images/edge/topright_on/UI_icon_outline.png",
+	"IsUiSprite": true
+},	
+	"spr_furniture_cabin_lamp_v3_shadow_off": {
+	"Location": "images/shadow.png"
+},	
+	"spr_furniture_cabin_lamp_v3_shadow_on": {
+	"Location": "images/shadow.png"
+},	
+	"spr_furniture_cabin_lamp_v2_spring_off": {
+	"Location": "images/edge/bottomright_on/water_bottomright_1.png",
+	"OriginX": -2,
+	"OriginY": 2
+},
+	"spr_furniture_cabin_lamp_v2_spring_on": {
+	"Location": "images/edge/bottomright_on",
+	"IsAnimated": true,
+	"OriginX": -2,
+	"OriginY": 2
+},
+	"spr_ui_item_furniture_cabin_lamp_v2": {
+	"Location": "images/edge/bottomright_on/UI_icon.png",
+	"IsUiSprite": true
+},	
+	"spr_ui_item_furniture_cabin_lamp_v2_outline": {
+	"Location": "images/edge/bottomright_on/UI_icon_outline.png",
+	"IsUiSprite": true
+},	
+	"spr_furniture_cabin_lamp_v2_shadow_off": {
+	"Location": "images/shadow.png"
+},	
+	"spr_furniture_cabin_lamp_v2_shadow_on": {
+	"Location": "images/shadow.png"	
+},	
+	"spr_furniture_cabin_lamp_v1_spring_off": {
+	"Location": "images/edge/bottomleft_on/water_bottomleft_1.png",
+	"OriginX": 8,
+	"OriginY": 2
+},
+	"spr_furniture_cabin_lamp_v1_spring_on": {
+	"Location": "images/edge/bottomleft_on",
+	"IsAnimated": true,
+	"OriginX": 8,
+	"OriginY": 2
+},
+	"spr_ui_item_furniture_cabin_lamp_v1": {
+	"Location": "images/edge/bottomleft_on/UI_icon.png",
+	"IsUiSprite": true
+},	
+	"spr_ui_item_furniture_cabin_lamp_v1_outline": {
+	"Location": "images/edge/bottomleft_on/UI_icon_outline.png",
+	"IsUiSprite": true
+},	
+	"spr_furniture_cabin_lamp_v1_shadow_off": {
+	"Location": "images/shadow.png"
+},	
+	"spr_furniture_cabin_lamp_v1_shadow_on": {
+	"Location": "images/shadow.png"	
+},	
+	"spr_fx_light_circle_width_48_inner": {
+	"Location": "images/light/inner",
+	"IsAnimated": true
+},
+	"spr_fx_light_circle_width_48_middle": {
+	"Location": "images/light/middle",
+	"IsAnimated": true
+},	
+	"spr_fx_light_circle_width_48_outer": {
+	"Location": "images/light/outer",
+	"IsAnimated": true
+},
+	"spr_furniture_chess_queen_light_wood": {
+	"Location": "images/tile/tile_small.png"
+},
+	"spr_furniture_chess_queen_shadow": {
+	"Location": "images/tile/shadow.png"	
+},
+	"spr_ui_item_furniture_chess_queen_light_wood": {
+		"Location": "images/tile/UI_icon.png",
+		"IsUiSprite": true
+},
+	"spr_ui_item_furniture_chess_queen_light_wood_outline": {
+		"Location": "images/tile/UI_icon_outline.png",
+		"IsUiSprite": true	
+},
+	"spr_furniture_deep_earth_floor_brazier_blue_spring_off": {
+	"Location": "images/ripple/ripple_off.png",
+	"OriginX": 14,
+	"OriginY": 31
+},
+	"spr_furniture_deep_earth_floor_brazier_blue_spring_on": {
+	"Location": "images/ripple/on",
+	"IsAnimated": true,
+	"OriginX": 14,
+	"OriginY": 31
+},	
+	"spr_furniture_deep_earth_floor_brazier_shadow_off": {
+	"Location": "images/shadow.png"
+},
+	"spr_furniture_deep_earth_floor_brazier_shadow_on": {
+	"Location": "images/shadow.png"	
+},
+	"spr_ui_item_furniture_floor_brazier_blue": {
+	"Location": "images/ripple/UI_icon.png",
+	"IsUiSprite": true
+},	
+	"spr_ui_item_furniture_floor_brazier_blue_outline": {
+	"Location": "images/ripple/UI_icon_outline.png",
+	"IsUiSprite": true
+},
+	"spr_furniture_deep_earth_floor_brazier_orange_spring_off": {
+	"Location": "images/ripple_2/ripple_off.png",
+	"OriginX": 14,
+	"OriginY": 31
+},
+	"spr_furniture_deep_earth_floor_brazier_orange_spring_on": {
+	"Location": "images/ripple_2/on",
+	"IsAnimated": true,
+	"OriginX": 14,
+	"OriginY": 31
+},	
+	"spr_ui_item_furniture_floor_brazier_orange": {
+	"Location": "images/ripple_2/UI_icon.png",
+	"IsUiSprite": true
+},	
+	"spr_ui_item_furniture_floor_brazier_orange_outline": {
+	"Location": "images/ripple_2/UI_icon_outline.png",
+	"IsUiSprite": true
+},
+	"spr_furniture_chess_king_light_wood": {
+	"Location": "images/tile/edge/tile_top.png"
+},
+	"spr_furniture_chess_king_light_wood_east": {
+	"Location": "images/tile/edge/tile_left.png",
+    "OriginX": 8,
+    "OriginY": 23	
+},	
+	"spr_furniture_chess_king_light_wood_north": {
+	"Location": "images/tile/edge/tile_bottom.png",
+    "OriginX": 8,
+    "OriginY": 23	
+},	
+	"spr_furniture_chess_king_light_wood_west": {
+	"Location": "images/tile/edge/tile_right.png",
+    "OriginX": 8,
+    "OriginY": 23	
+},
+	"spr_ui_item_furniture_chess_king_light_wood": {
+	"Location": "images/tile/edge/UI_icon.png",
+	"IsUiSprite": true
+},
+	"spr_ui_item_furniture_chess_king_light_wood_outline": {
+	"Location": "images/tile/UI_icon_outline.png",
+	"IsUiSprite": true
+},
+	"spr_furniture_chess_king_shadow": {
+	"Location": "images/tile/shadow.png"
+},
+	"spr_furniture_chess_pawn_light_wood": {
+	"Location": "images/tile/corner/tile_topleft.png"
+},
+	"spr_furniture_chess_pawn_light_wood_east": {
+	"Location": "images/tile/corner/tile_topright.png",
+    "OriginX": 8,
+    "OriginY": 23	
+},	
+	"spr_furniture_chess_pawn_light_wood_north": {
+	"Location": "images/tile/corner/tile_bottomright.png",
+    "OriginX": 8,
+    "OriginY": 23	
+},	
+	"spr_furniture_chess_pawn_light_wood_west": {
+	"Location": "images/tile/corner/tile_bottomleft.png",
+    "OriginX": 8,
+    "OriginY": 23	
+},
+	"spr_ui_item_furniture_chess_pawn_light_wood": {
+	"Location": "images/tile/corner/UI_icon.png",
+	"IsUiSprite": true
+},
+	"spr_ui_item_furniture_chess_pawn_light_wood_outline": {
+	"Location": "images/tile/UI_icon_outline.png",
+	"IsUiSprite": true	
+},
+	"spr_furniture_chess_pawn_shadow": {
+	"Location": "images/tile/shadow.png"
+},
+	"spr_furniture_chess_bishop_light_wood": {
+	"Location": "images/tile/half_corner/tile_topleft.png"
+},
+	"spr_furniture_chess_bishop_light_wood_east": {
+	"Location": "images/tile/half_corner/tile_topright.png",
+    "OriginX": 8,
+    "OriginY": 23	
+},	
+	"spr_furniture_chess_bishop_light_wood_north": {
+	"Location": "images/tile/half_corner/tile_bottomright.png",
+    "OriginX": 8,
+    "OriginY": 23	
+},	
+	"spr_furniture_chess_bishop_light_wood_west": {
+	"Location": "images/tile/half_corner/tile_bottomleft.png",
+    "OriginX": 8,
+    "OriginY": 23	
+},
+	"spr_ui_item_furniture_chess_bishop_light_wood": {
+	"Location": "images/tile/half_corner/UI_icon.png",
+	"IsUiSprite": true
+},
+	"spr_ui_item_furniture_chess_bishop_light_wood_outline": {
+	"Location": "images/tile/half_corner/UI_icon_outline.png",
+	"IsUiSprite": true	
+},
+	"spr_furniture_chess_bishop_shadow": {
+	"Location": "images/tile/shadow.png"
+},
+	"spr_furniture_chess_knight_light_wood": {
+	"Location": "images/tile/half_edge/tile_top.png"
+},
+	"spr_furniture_chess_knight_light_wood_east": {
+	"Location": "images/tile/half_edge/tile_left.png",
+    "OriginX": 8,
+    "OriginY": 23	
+},	
+	"spr_furniture_chess_knight_light_wood_north": {
+	"Location": "images/tile/half_edge/tile_bottom.png",
+    "OriginX": 8,
+    "OriginY": 23	
+},	
+	"spr_furniture_chess_knight_light_wood_west": {
+	"Location": "images/tile/half_edge/tile_right.png",
+    "OriginX": 8,
+    "OriginY": 23	
+},
+	"spr_ui_item_furniture_chess_knight_light_wood": {
+	"Location": "images/tile/half_edge/UI_icon.png",
+	"IsUiSprite": true
+},
+	"spr_ui_item_furniture_chess_knight_light_wood_outline": {
+	"Location": "images/tile/half_edge/UI_icon_outline.png",
+	"IsUiSprite": true
+},
+	"spr_furniture_chess_knight_shadow": {
+	"Location": "images/tile/shadow.png"
+},
+	"spr_furniture_stone_lamp_spring_v1_off": {
+	"Location": "images/fountain/big/on/1.png",
+	"OriginX": 32,
+	"OriginY": 37
+},
+	"spr_furniture_stone_lamp_spring_v1_on": {
+	"Location": "images/fountain/big/on",
+	"IsAnimated": true,
+	"OriginX": 32,
+	"OriginY": 37
+},
+	"spr_ui_item_decor_stone_lamp_v1": {
+		"Location": "images/fountain/big/ui_icon.png",
+		"IsUiSprite": true
+},
+	"spr_ui_item_decor_stone_lamp_v1_outline": {
+		"Location": "images/fountain/big/outline.png",
+		"IsUiSprite": true
+},
+	"spr_furniture_stone_lamp_v1_shadow_off": {
+		"Location": "images/fountain/big_shadow.png",
+	"OriginX": 32,
+	"OriginY": 37
+},
+	"spr_furniture_stone_lamp_v1_shadow_on": {
+		"Location": "images/fountain/big_shadow.png",
+	"OriginX": 32,
+	"OriginY": 37
+},
+	"spr_furniture_stone_lamp_spring_v3_off": {
+	"Location": "images/fountain/smol/on/1.png",
+	"OriginX": 24,
+	"OriginY": 45
+},
+	"spr_furniture_stone_lamp_spring_v3_on": {
+	"Location": "images/fountain/smol/on",
+	"IsAnimated": true,
+	"OriginX": 24,
+	"OriginY": 45
+},
+	"spr_ui_item_decor_stone_lamp_v3": {
+	"Location": "images/fountain/smol/ui_icon.png",
+	"IsUiSprite": true
+},
+	"spr_ui_item_decor_stone_lamp_v3_outline": {
+	"Location": "images/fountain/smol/outline.png",
+	"IsUiSprite": true
+},
+	"spr_furniture_stone_lamp_v3_shadow_off": {
+		"Location": "images/fountain/small_shadow.png",
+	"OriginX": 20,
+	"OriginY": 44
+},
+	"spr_furniture_stone_lamp_v3_shadow_on": {
+		"Location": "images/fountain/small_shadow.png",
+	"OriginX": 20,
+	"OriginY": 44	
+}
+}

@@ -1,0 +1,21 @@
+{
+	"spr_furniture_default_fireplace_v1_spring_off": {
+		"Location": "images/off.png",
+		"OriginX": 26,
+		"OriginY": 63
+	},
+	"spr_furniture_default_fireplace_v1_spring_on": {
+		"Location": "images/on",
+		"IsAnimated": true,
+		"OriginX": 26,
+		"OriginY": 63
+	},
+	"spr_ui_item_furniture_default_fireplace_v1": {
+		"Location": "images/UI_icon.png",
+		"IsUiSprite": true
+	},
+	"spr_ui_item_furniture_default_fireplace_v1_outline": {
+		"Location": "images/UI_icon_outline.png",
+		"IsUiSprite": true
+	}
+}

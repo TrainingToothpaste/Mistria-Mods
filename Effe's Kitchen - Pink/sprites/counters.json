@@ -1,0 +1,64 @@
+{
+	"spr_kitchen_tier_3_spring_off_south": {
+		"Location": "images/kitchen_off.png"
+	},
+	"spr_kitchen_tier_3_spring_on_south": {
+		"Location": "images/kitchen_on",
+		"IsAnimated": true
+	},
+	"spr_ui_item_kitchen_tier_3": {
+		"Location": "images/kitchen_UI_icon.png",
+		"IsUiSprite": true
+	},
+	"spr_ui_item_kitchen_tier_3_outline": {
+		"Location": "images/kitchen_UI_icon_outline.png",
+		"IsUiSprite": true
+	},
+	"spr_ui_item_furniture_inn_counter": {
+		"Location": "images/inn_counter_UI_icon.png",
+		"IsUiSprite": true
+	},
+	"spr_ui_item_furniture_inn_counter_outline": {
+		"Location": "images/inn_counter_UI_icon_outline.png",
+		"IsUiSprite": true
+	},	
+	"spr_furniture_inn_counter_spring_south": {
+		"Location": "images/counter_north2.png"
+	},
+	"spr_furniture_inn_counter_spring_north": {
+		"Location": "images/counter_north.png"
+	},
+	"spr_furniture_inn_counter_spring_east": {
+		"Location": "images/counter_east.png"
+	},
+	"spr_ui_item_furniture_basic_chest_v10": {
+		"Location": "images/inn_counter_UI_icon.png",
+		"IsUiSprite": true
+	},
+	"spr_ui_item_furniture_basic_chest_v10_outline": {
+		"Location": "images/inn_counter_UI_icon_outline.png",
+		"IsUiSprite": true
+	},
+	"spr_furniture_basic_chest_v10_spring_closed": {
+		"Location": "images/counter_south.png",
+		"OriginX": 20,
+		"OriginY": 20
+	},
+	"spr_furniture_basic_chest_v10_spring_opened": {
+		"Location": "images/cupboard_open.png",
+		"OriginX": 20,
+		"OriginY": 20
+	},	
+	"spr_furniture_basic_chest_v10_spring_opening": {
+		"Location": "images/opening",
+		"OriginX": 20,
+		"OriginY": 20,
+		"IsAnimated": true
+	},
+	"spr_furniture_basic_chest_v10_spring_bounce": {
+		"Location": "images/opening",
+		"OriginX": 20,
+		"OriginY": 20,
+		"IsAnimated": true
+	}
+}

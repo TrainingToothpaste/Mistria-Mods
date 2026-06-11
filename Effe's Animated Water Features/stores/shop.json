@@ -1,0 +1,23 @@
+{
+  "items": [
+	{
+      "item": "cavern_floor_brazier_blue",
+      "store": "general",
+      "category": "modded_icon",
+      "include_recipe": true
+    },
+	{
+      "item": "cavern_floor_brazier_orange",
+      "store": "general",
+      "category": "modded_icon",
+      "include_recipe": true
+    }
+  ],
+    "categories": [
+    {
+      "store": "general",
+      "icon_name": "modded_icon",
+      "sprite": "images/icon_modded.png"
+    }
+  ]
+}

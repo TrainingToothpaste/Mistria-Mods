@@ -1,0 +1,210 @@
+{
+	  "spr_object_wall_calendar_spring": {
+    "Location": "images/hanging/hanging.png"
+},
+	  "spr_ui_item_object_wall_calendar": {
+    "Location": "images/hanging/UI_icon.png",
+    "IsUiSprite": true
+},
+	  "spr_ui_item_object_wall_calendar_outline": {
+    "Location": "images/hanging/UI_icon_outline.png",
+    "IsUiSprite": true
+},
+	  "spr_furniture_mistria_wall_map": {
+    "Location": "images/shelf_large/large.png"
+},
+	  "spr_ui_item_decor_mistria_wall_map": {
+    "Location": "images/shelf_large/UI_icon.png",
+    "IsUiSprite": true
+},
+	  "spr_ui_item_decor_mistria_wall_map_outline": {
+    "Location": "images/shelf_large/UI_icon_outline.png",
+    "IsUiSprite": true
+},
+	  "spr_furniture_cabin_wall_shelf_v3_spring": {
+    "Location": "images/shelf_small/small.png"
+},
+	  "spr_ui_item_furniture_cabin_wall_shelf_v3": {
+    "Location": "images/shelf_small/UI_icon.png",
+    "IsUiSprite": true
+},
+	  "spr_ui_item_furniture_cabin_wall_shelf_v3_outline": {
+    "Location": "images/shelf_small/UI_icon_outline.png",
+    "IsUiSprite": true
+},
+	  "spr_furniture_basic_flower_pot_v1_spring": {
+    "Location": "images/duo_v1/v1.png"
+},
+	"spr_furniture_basic_flower_pot_v1_spring_north": {
+		"Location": "images/duo_v1/flip.png",
+		"OriginX": 7,
+		"OriginY": 14
+},
+	"spr_furniture_basic_flower_pot_v1_shadow": {
+	"Location": "images/duo_v1/shadow.png"
+},
+	  "spr_ui_item_furniture_basic_flower_pot_v1": {
+    "Location": "images/duo_v1/UI_icon.png",
+    "IsUiSprite": true
+},
+	  "spr_ui_item_furniture_basic_flower_pot_v1_outline": {
+    "Location": "images/duo_v1/UI_icon_outline.png",
+    "IsUiSprite": true
+},
+	  "spr_furniture_basic_flower_pot_v2_spring": {
+    "Location": "images/duo_v2/v2.png"
+},
+	"spr_furniture_basic_flower_pot_v2_spring_north": {
+		"Location": "images/duo_v2/flip.png",
+		"OriginX": 7,
+		"OriginY": 14
+},
+	"spr_furniture_basic_flower_pot_v2_shadow": {
+	"Location": "images/duo_v2/shadow.png"
+},
+	  "spr_ui_item_furniture_basic_flower_pot_v2": {
+    "Location": "images/duo_v2/UI_icon.png",
+    "IsUiSprite": true
+},
+	  "spr_ui_item_furniture_basic_flower_pot_v2_outline": {
+    "Location": "images/duo_v2/UI_icon_outline.png",
+    "IsUiSprite": true
+},
+	  "spr_furniture_cabin_wall_shelf_v1_spring": {
+    "Location": "images/hanging_terrarium/hanging_terrarium.png"
+},
+	  "spr_ui_item_furniture_cabin_wall_shelf_v1": {
+    "Location": "images/hanging_terrarium/UI_icon.png",
+    "IsUiSprite": true
+},
+	  "spr_ui_item_furniture_cabin_wall_shelf_v1_outline": {
+    "Location": "images/hanging_terrarium/UI_icon_outline.png",
+    "IsUiSprite": true
+},
+	"spr_furniture_chess_rook_light_wood": {
+		"Location": "images/monstera/monstera.png"
+},	
+	"spr_furniture_chess_rook_light_wood_north": {
+		"Location": "images/monstera/flip.png",
+		"OriginX": 7,
+		"OriginY": 14
+},
+	"spr_furniture_chess_rook_shadow": {
+		"Location": "images/monstera/shadow.png"
+},			
+	"spr_ui_item_furniture_chess_rook_light_wood": {
+		"Location": "images/monstera/UI_icon.png",
+		"IsUiSprite": true
+},
+	"spr_ui_item_furniture_chess_rook_light_wood_outline": {
+		"Location": "images/monstera/UI_icon_outline.png",
+		"IsUiSprite": true
+},
+	"spr_furniture_spring_potted_tree_purple_spring": {
+		"Location": "images/peace_lily/lily.png"
+},
+	"spr_furniture_spring_potted_tree_purple_spring_north": {
+		"Location": "images/peace_lily/flip.png",
+		"OriginX": 6,
+		"OriginY": 31
+},
+	"spr_furniture_spring_potted_tree_purple_shadow": {
+		"Location": "images/peace_lily/shadow.png"
+},
+	"spr_ui_item_furniture_spring_potted_tree_purple": {
+		"Location": "images/peace_lily/UI_icon.png",
+		"IsUiSprite": true
+},
+	"spr_ui_item_furniture_spring_potted_tree_purple_outline": {
+		"Location": "images/peace_lily/UI_icon_outline.png",
+		"IsUiSprite": true
+},
+	"spr_decor_picnic_sunflower_vase_pink_spring": {
+		"Location": "images/rose_jar/rose.png"
+},
+	"spr_decor_picnic_sunflower_vase_pink_spring_north": {
+		"Location": "images/rose_jar/flip.png",
+		"OriginX": 7,
+		"OriginY": 14
+},
+	"spr_decor_picnic_sunflower_vase_pink_shadow": {
+		"Location": "images/rose_jar/shadow.png"
+},			
+	"spr_ui_item_picnic_sunflower_vase_pink": {
+		"Location": "images/rose_jar/UI_icon.png",
+		"IsUiSprite": true
+},
+	"spr_ui_item_picnic_sunflower_vase_pink_outline": {
+		"Location": "images/rose_jar/UI_icon_outline.png",
+		"IsUiSprite": true
+},
+	"spr_decor_picnic_sunflower_vase_red_spring": {
+		"Location": "images/small_potted/small_potted.png"
+},	
+	"spr_decor_picnic_sunflower_vase_red_spring_north": {
+		"Location": "images/small_potted/flip.png",
+		"OriginX": 3,
+		"OriginY": 15
+},
+	"spr_decor_picnic_sunflower_vase_red_shadow": {
+		"Location": "images/small_potted/shadow.png"
+},			
+	"spr_ui_item_picnic_sunflower_vase_red": {
+		"Location": "images/small_potted/UI_icon.png",
+		"IsUiSprite": true
+},
+	"spr_ui_item_picnic_sunflower_vase_red_outline": {
+		"Location": "images/small_potted/UI_icon_outline.png",
+		"IsUiSprite": true
+  },
+  "spr_decor_picnic_sunflower_vase_red_spring_east": {
+	  "Location": "images/ivy/east.png",
+	  "OriginX": 1,
+	  "OriginY": 10
+  },
+  "spr_decor_picnic_sunflower_vase_red_spring_west": {
+	  "Location": "images/ivy/west.png",
+	  "OriginX": 1,
+	  "OriginY": 10
+  },
+  "spr_furniture_basic_flower_pot_v1_spring_north_shadow": {
+    "Location": "images/duo_v1/shadow.png",
+	"OriginX": 4,
+	"OriginY": 14
+  },
+    "spr_furniture_basic_flower_pot_v2_spring_north_shadow": {
+	"Location": "images/duo_v2/shadow.png",
+	"OriginX": 4,
+	"OriginY": 14
+  },
+    "spr_furniture_chess_rook_light_wood_north_shadow": {
+    "Location": "images/monstera/shadow.png",
+	"OriginX": 4,
+	"OriginY": 14
+  },
+     "spr_furniture_spring_potted_tree_purple_spring_north_shadow": {
+    "Location": "images/peace_lily/shadow.png",
+	"OriginX": 6,
+	"OriginY": 31
+  },
+    "spr_decor_picnic_sunflower_vase_pink_spring_north_shadow": {
+    "Location": "images/rose_jar/shadow.png",
+	"OriginX": 7,
+	"OriginY": 14
+  },
+    "spr_decor_picnic_sunflower_vase_red_spring_north_shadow": {
+    "Location": "images/small_potted/shadow.png",
+	"OriginX": 3,
+	"OriginY": 4
+  },
+    "spr_decor_picnic_sunflower_vase_red_spring_east_shadow": {
+    "Location": "images/small_potted/shadow.png",
+	"OriginX": 1,
+	"OriginY": 16
+  },
+    "spr_decor_picnic_sunflower_vase_red_spring_west_shadow": {
+    "Location": "images/small_potted/shadow.png",
+	"OriginX": 1,
+	"OriginY": 16
+  }
+}

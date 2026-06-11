@@ -1,0 +1,180 @@
+{
+  "items": {
+    "furniture": {
+      "chess_set": {
+        "chess_pawn_light_wood": {
+			"recipe": [
+            {
+              "count": 1,
+              "item": "basic_wood"
+            },
+			{
+			  "hours": 0,
+              "minutes": 0
+            }
+          ]
+		},
+        "chess_rook_light_wood": {
+          "recipe": [
+            {
+              "count": 1,
+              "item": "basic_wood"
+            },
+			{
+			  "hours": 0,
+              "minutes": 0
+            }
+          ]
+         },
+		 "chess_queen_light_wood": {
+			"recipe": [
+            {
+              "count": 1,
+              "item": "basic_wood"
+            },
+			{
+			  "hours": 0,
+              "minutes": 0
+            }
+          ]	
+        },
+		 "chess_king_light_wood": {
+			"recipe": [
+            {
+              "count": 1,
+              "item": "basic_wood"
+            },
+			{
+			  "hours": 0,
+              "minutes": 0
+            }
+          ]
+        },
+		 "chess_knight_light_wood": {
+			"recipe": [
+            {
+              "count": 1,
+              "item": "basic_wood"
+            },
+			{
+			  "hours": 0,
+              "minutes": 0
+            }
+          ]	
+        },
+		 "chess_bishop_light_wood": {
+			"recipe": [
+            {
+              "count": 1,
+              "item": "basic_wood"
+            },
+			{
+			  "hours": 0,
+              "minutes": 0
+            }
+          ]
+        }
+	  },
+	  "rustic_cabin_set": {
+		   "cabin_stove_walnut": {
+			"recipe": [
+            {
+              "count": 1,
+              "item": "basic_wood"
+            },
+            {
+              "count": 1,
+              "item": "glass"
+            },
+            {
+              "hours": 0,
+              "minutes": 0
+            }
+          ]
+		},
+		   "cabin_lamp_cherry": {
+			"recipe": [
+            {
+              "count": 1,
+              "item": "basic_wood"
+            },
+            {
+              "count": 1,
+              "item": "glass"
+            },
+            {
+              "hours": 0,
+              "minutes": 0
+            }
+          ]
+		},
+		   "cabin_lamp_walnut": {
+			"recipe": [
+            {
+              "count": 1,
+              "item": "basic_wood"
+            },
+            {
+              "count": 1,
+              "item": "glass"
+            },
+            {
+              "hours": 0,
+              "minutes": 0
+            }
+          ]
+		},
+		   "cabin_lamp_oak": {
+			"recipe": [
+            {
+              "count": 1,
+              "item": "basic_wood"
+            },
+            {
+              "count": 1,
+              "item": "glass"
+            },
+            {
+              "hours": 0,
+              "minutes": 0
+            }
+          ]
+		}		
+		},
+		"cavern_set": {
+			"cavern_floor_brazier_blue": {
+			"recipe": [
+            {
+              "count": 1,
+              "item": "basic_wood"
+            },
+            {
+              "count": 1,
+              "item": "glass"
+            },
+            {
+              "hours": 0,
+              "minutes": 0
+            }
+          ]
+		},
+			"cavern_floor_brazier_orange": {
+			"recipe": [
+            {
+              "count": 1,
+              "item": "basic_wood"
+            },
+            {
+              "count": 1,
+              "item": "glass"
+            },
+            {
+              "hours": 0,
+              "minutes": 0
+            }
+          ]
+		}		
+      }
+	}
+  }
+}

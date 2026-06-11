@@ -1,0 +1,879 @@
+{
+  "monsters/bat/bat": {
+    "variant_attack": false
+  },
+  "monsters/bat/bat_blue": {
+    "variant_attack": false
+  },
+  "monsters/clod/default/reflect_speed": 60,
+  "monsters/clod/default": {
+    "reflect_speed": 60,
+    "projectile_speed": 0.6
+  },
+  "monsters/clod/rockclod": {
+    "reflect_speed": 60,
+    "projectile_speed": 0.6
+  },
+  "monsters/clod/copperclod": {
+    "reflect_speed": 60,
+    "projectile_speed": 0.6
+  },
+  "monsters/clod/rockclod_blue": {
+    "reflect_speed": 60,
+    "projectile_speed": 0.6
+  },
+  "monsters/clod/ironclod": {
+    "reflect_speed": 60,
+    "projectile_speed": 0.6
+  },
+  "monsters/clod/rockclod_green": {
+    "launcher": false,
+    "reflect_speed": 60,
+    "projectile_speed": 0.6
+  },
+  "monsters/clod/silverclod": {
+    "bomb_projectile_speed": 0.5,
+    "reflect_speed": 60,
+    "projectile_speed": 0.6,
+    "bomber": false
+  },
+  "monsters/clod/rockclod_red": {
+    "reflect_speed": 60,
+    "projectile_speed": 0.6
+  },
+  "monsters/clod/goldclod": {
+    "reflect_speed": 60,
+    "projectile_speed": 0.6
+  },
+  "monsters/clod/rockclod_purple": {
+    "reflect_speed": 60,
+    "projectile_speed": 0.6
+  },
+  "monsters/clod/mistrilclod": {
+    "reflect_speed": 60,
+    "projectile_speed": 0.6,
+    "attack_sequence": 0,
+    "attack_legion": 0
+  },
+  "monsters/enchantern/enchantern": {
+    "drops_balls": false,
+    "charge_timer": [
+      0,
+      10
+    ],
+    "projectile_timer": [
+      1,
+      10
+    ],
+    "windup": [
+      1,
+      10
+    ],
+    "waiting": [
+      500,
+      700
+    ],
+    "flee_timer": [
+      500,
+      700
+    ]
+  },
+  "monsters/enchantern/enchantern_blue": {
+    "drops_balls": false,
+    "charge_timer": [
+      0,
+      10
+    ],
+    "projectile_timer": [
+      1,
+      10
+    ],
+    "windup": [
+      1,
+      10
+    ],
+    "waiting": [
+      500,
+      700
+    ],
+    "flee_timer": [
+      500,
+      700
+    ]
+  },
+  "monsters/shroom/mushroom_green": {
+    "explodes": false
+  },
+  "monsters/shroom/mushroom_blue": {
+    "fade_in_rate": 0,
+    "fade_out_rate": 0
+  },
+  "monsters/shroom/mushroom_purple": {
+    "spew_lava": false
+  },
+  "monsters/sap/sapling_cool": {
+    "attack_radius": 10,
+    "max_jump_radius": 10
+  },
+  "monsters/sap/sapling_blue": {
+    "attack_radius": 10,
+    "max_jump_radius": 10,
+    "sticky": false
+  },
+  "monsters/sap/sapling_purple": {
+    "attack_radius": 10,
+    "max_jump_radius": 10,
+    "free_fly": false
+  },
+  "monsters/sap/sapling_orange": {
+    "attack_radius": 10,
+    "max_jump_radius": 10,
+    "sap_children_birth_timer": 20,
+    "sap_children_birth_distance": 15,
+    "sap_children": 4
+  },
+  "monsters/sap/sapling_orange_mini": {
+    "attack_radius": 10,
+    "max_jump_radius": 10
+  },
+  "monsters/sap/sapling_pink": {
+    "hp": 10,
+    "damage": 10,
+    "attack_radius": 10,
+    "max_jump_radius": 10,
+    "hyper_armor": 0
+  },
+  "monsters/mite/stalagmite_green": {
+    "secondary_spikes": false
+  },
+  "monsters/mite/stalagmite_purple": {
+    "secondary_spikes": false
+  },
+  "monsters/rock_stack/rock_stack": {
+    "drops": [
+      {
+        "item": "monster_shell",
+        "chance": 100,
+        "count_range": [
+          5,
+          10
+        ]
+      }
+    ]
+  },
+  "monsters/cat/cat": {
+    "charge_range": 10,
+    "attack_movement_speed": 1
+  },
+  "monsters/cat/cat_void": {
+    "charge_range": 10,
+    "attack_movement_speed": 1
+  },
+  "monsters/spirit/spirit": {
+    "teleport_duration": [
+      0,
+      0
+    ],
+    "teleport_distance_from_player": [
+      0,
+      0
+    ],
+    "projectile_life_time": [
+      0,
+      0
+    ],
+    "projectile_speed": 0.1,
+    "rotation_speed": 0
+  },
+  "monsters/barrel/barrel": {
+    "prime_duration": 10,
+    "swell_duration": 10
+  },
+  "monsters/clod": {
+    "default": {
+      "reflect_speed": 60,
+      "projectile_speed": 0.6
+    },
+    "rockclod": {
+      "reflect_speed": 60,
+      "projectile_speed": 0.6
+    },
+    "copperclod": {
+      "reflect_speed": 60,
+      "projectile_speed": 0.6
+    },
+    "rockclod_blue": {
+      "reflect_speed": 60,
+      "projectile_speed": 0.6
+    },
+    "ironclod": {
+      "reflect_speed": 60,
+      "projectile_speed": 0.6
+    },
+    "rockclod_green": {
+      "launcher": false,
+      "reflect_speed": 60,
+      "projectile_speed": 0.6
+    },
+    "silverclod": {
+      "bomber": false,
+      "reflect_speed": 60,
+      "projectile_speed": 0.6
+    },
+    "rockclod_red": {
+      "reflect_speed": 60,
+      "projectile_speed": 0.6
+    },
+    "goldclod": {
+      "reflect_speed": 60,
+      "projectile_speed": 0.6
+    },
+    "rockclod_purple": {
+      "reflect_speed": 60,
+      "projectile_speed": 0.6
+    },
+    "mistrilclod": {
+      "reflect_speed": 60,
+      "projectile_speed": 0.6,
+      "attack_sequence": 0,
+      "attack_legion": 0
+    }
+  },
+  "monsters/enchantern": {
+    "default": {
+      "charge_speed": 6,
+      "flee_speed": 0.1,
+      "aggro_radius": 10,
+      "drops_balls": false,
+      "attack_radius": 96,
+      "charge_timer": [
+        0,
+        10
+      ],
+      "projectile_timer": [
+        1,
+        10
+      ],
+      "windup": [
+        1,
+        10
+      ],
+      "waiting": [
+        500,
+        700
+      ],
+      "flee_timer": [
+        500,
+        700
+      ]
+    },
+    "enchantern": {
+      "drops_balls": false,
+      "charge_timer": [
+        0,
+        10
+      ],
+      "projectile_timer": [
+        1,
+        10
+      ],
+      "windup": [
+        1,
+        10
+      ],
+      "waiting": [
+        500,
+        700
+      ],
+      "flee_timer": [
+        500,
+        700
+      ]
+    },
+    "enchantern_blue": {
+      "drops_balls": false,
+      "charge_timer": [
+        0,
+        10
+      ],
+      "projectile_timer": [
+        1,
+        10
+      ],
+      "windup": [
+        1,
+        10
+      ],
+      "waiting": [
+        500,
+        700
+      ],
+      "flee_timer": [
+        500,
+        700
+      ]
+    }
+  },
+  "monsters/shroom": {
+    "default": {
+      "attack_radius": 10,
+      "hide_radius": 10,
+      "ari_bounce_distance": 0,
+      "knockback_multiplier": 0,
+      "knockback_friction": 0,
+      "push_radius": 0,
+      "push_force": 0,
+      "pushed_radius": 0
+    },
+    "mushroom_green": {
+      "explodes": false
+    },
+    "mushroom_blue": {
+      "fade_in_rate": 0,
+      "fade_out_rate": 0
+    },
+    "mushroom_purple": {
+      "spew_lava": false
+    }
+  },
+  "monsters/sap": {
+    "default": {
+      "attack_radius": 10,
+      "max_jump_radius": 10
+    },
+    "sapling_cool": {
+      "attack_radius": 10,
+      "max_jump_radius": 10
+    },
+    "sapling_blue": {
+      "attack_radius": 10,
+      "max_jump_radius": 10,
+      "sticky": false
+    },
+    "sapling_purple": {
+      "attack_radius": 10,
+      "max_jump_radius": 10,
+      "use_circle": false,
+      "free_fly": false
+    },
+    "sapling_orange": {
+      "attack_radius": 10,
+      "max_jump_radius": 10,
+      "sap_children_birth_timer": 20,
+      "sap_children_birth_distance": 15,
+      "sap_children": 4
+    },
+    "sapling_orange_mini": {
+      "attack_radius": 10,
+      "max_jump_radius": 10
+    },
+    "sapling_pink": {
+      "hp": 10,
+      "damage": 10,
+      "attack_radius": 10,
+      "max_jump_radius": 10,
+      "hyper_armor": 0
+    }
+  },
+  "monsters/mite": {
+    "default": {
+      "secondary_spikes": false,
+      "push_radius": 0,
+      "push_force": 0
+    },
+    "stalagmite_green": {
+      "secondary_spikes": false
+    },
+    "stalagmite_purple": {
+      "secondary_spikes": false
+    }
+  },
+  "monsters/cat": {
+    "default": {
+      "petrified_duration": 1000,
+      "knockback": 2,
+      "knockback_decline": 0.8,
+      "charge_range": 10
+    },
+    "cat": {
+      "charge_range": 10
+    },
+    "cat_void": {
+      "charge_range": 10
+    }
+  },
+  "monsters/tome": {
+    "default": {
+      "flying_speed": 0.5,
+      "charge_up_time": 10,
+      "on_hit_knockback": 1,
+      "wind_attack_duration": 1
+    },
+    "tome": {
+      "flying_speed": 0.5,
+      "charge_up_time": 10,
+      "on_hit_knockback": 1,
+      "wind_attack_duration": 1
+    }
+  },
+  "monsters/statue": {
+    "default": {
+      "move_speed": 1,
+      "trauma_range_full": 0,
+      "trauma_range_buffer": 0
+    },
+    "griffin_statue": {
+      "hp": 10,
+      "damage": 1,
+      "move_speed": 1,
+      "chase_rate": 1,
+      "tumble_hit_speed": 1,
+      "trauma_range_full": 0,
+      "trauma_range_buffer": 0
+    }
+  },
+  "monsters/spirit": {
+    "default": {
+      "teleport_duration": [
+        0,
+        0
+      ],
+      "teleport_distance_from_player": [
+        0,
+        0
+      ],
+      "projectile_life_time": [
+        0,
+        0
+      ],
+      "tired_duration": [
+        120,
+        240
+      ],
+      "projectile_turn_rate": 0.55,
+      "projectile_speed": 0.1,
+      "pre_attack_wait": 20
+    },
+    "spirit": {
+      "projectile_speed": 0.1,
+      "teleport_duration": [
+        0,
+        0
+      ],
+      "teleport_distance_from_player": [
+        0,
+        0
+      ],
+      "projectile_life_time": [
+        0,
+        0
+      ],
+      "tired_duration": [
+        120,
+        240
+      ]
+    },
+    "spirit_purple": {
+      "projectile_speed": 0.1,
+      "rotation_speed": 1,
+      "teleport_duration": [
+        0,
+        0
+      ],
+      "teleport_distance_from_player": [
+        0,
+        0
+      ],
+      "projectile_life_time": [
+        0,
+        0
+      ]
+    }
+  },
+  "monsters/sap/pink_sapling/hp": 10,
+  "monsters/sap/pink_sapling/damage": 1,
+  "monsters/statue/griffin_statue/hp": 10,
+  "monsters/statue/griffin_statue/damage": 1,
+  "monsters/statue/griffin_statue/move_speed": 1,
+  "monsters/statue/griffin_statue/chase_rate": 1,
+  "monsters/statue/griffin_statue/tumble_hit_speed": 1,
+  "monsters/statue/griffin_statue/trauma_range_full": 0,
+  "monsters/statue/griffin_statue/trauma_range_buffer": 0,
+  "monsters/spirit/spirit_purple/rotation_speed": 1,
+  "monsters/spirit/spirit_purple/teleport_duration/0": 0,
+  "monsters/spirit/spirit_purple/teleport_duration/1": 0,
+  "monsters/spirit/spirit_purple/projectile_life_time/0": 0,
+  "monsters/spirit/spirit_purple/projectile_life_time/1": 0,
+  "monsters/spirit/spirit_purple/teleport_distance_from_player/0": 0,
+  "monsters/spirit/spirit_purple/teleport_distance_from_player/1": 0,
+  "monsters/rock_stack/default/air_stall": [
+    0,
+    0
+  ],
+  "monsters/rock_stack/default/fell_stall/0": 0,
+  "monsters/rock_stack/default/fell_stall/1": 0,
+  "monsters/rock_stack/default/fell_stall": [
+    0,
+    0
+  ],
+  "monsters/rock_stack/default/air_wait/0": 0,
+  "monsters/rock_stack/default/air_wait/1": 0,
+  "monsters/rock_stack/default/air_wait": [
+    0,
+    0
+  ],
+ "monsters/rock_stack": {
+    "default": {
+      "knockback_multiplier": 1,
+      "push_radius": 0,
+      "push_force": 0,
+      "pushed_radius": 0,
+      "fall_speed": 3,
+      "fall_acceleration": 1,
+      "fell_stall": [
+        0,
+        0
+      ],
+      "air_stall": [
+        0,
+        0
+      ],
+      "air_wait": [
+        0,
+        0
+      ],
+      "air_speed_starting": 0.0
+    }
+  },
+  "monsters/rock_stack/default/air_speed_starting": 0.0,
+  "monsters/tome/default/on_hit_knockback": 1,
+  "monsters/tome/tome/on_hit_knockback": 1,
+  "monsters/tome/tome/wind_attack_duration": 1,
+  "monsters": {
+    "rock_stack": {
+      "default": {
+        "knockback_multiplier": 1,
+        "push_radius": 0,
+        "push_force": 0,
+        "pushed_radius": 0,
+        "fall_speed": 3,
+        "fall_acceleration": 1,
+        "fell_stall": [
+          0,
+          0
+        ],
+        "air_stall": [
+          0,
+          0
+        ],
+        "air_wait": [
+          0,
+          0
+        ],
+        "air_speed_starting": 0.0
+      }
+    },
+    "tome": {
+      "default": {
+        "flying_speed": 0.5,
+        "charge_up_time": 10,
+        "on_hit_knockback": 1,
+        "wind_attack_duration": 1
+      },
+      "tome": {
+        "flying_speed": 0.5,
+        "charge_up_time": 10,
+        "on_hit_knockback": 1,
+        "wind_attack_duration": 1
+      }
+    },
+    "statue": {
+      "default": {
+        "move_speed": 1,
+        "trauma_range_full": 0,
+        "trauma_range_buffer": 0
+      },
+      "griffin_statue": {
+        "hp": 10,
+        "damage": 1,
+        "move_speed": 1,
+        "chase_rate": 1,
+        "tumble_hit_speed": 1,
+        "trauma_range_full": 0,
+        "trauma_range_buffer": 0
+      }
+    },
+    "bat": {
+      "default": {
+        "variant_attack": false
+      },
+      "bat": {
+        "variant_attack": false
+      },
+      "bat_blue": {
+        "variant_attack": false
+      }
+    },
+    "clod": {
+      "default": {
+        "reflect_speed": 60,
+        "projectile_speed": 0.75
+      },
+      "rockclod": {
+        "reflect_speed": 60,
+        "projectile_speed": 0.75
+      },
+      "copperclod": {
+        "reflect_speed": 60,
+        "projectile_speed": 0.75
+      },
+      "rockclod_blue": {
+        "reflect_speed": 60,
+        "projectile_speed": 0.75
+      },
+      "ironclod": {
+        "reflect_speed": 60,
+        "projectile_speed": 0.75
+      },
+      "rockclod_green": {
+        "launcher": false,
+        "reflect_speed": 60,
+        "projectile_speed": 0.75
+      },
+      "silverclod": {
+        "bomber": false,
+        "bomb_projectile_speed": 0.5,
+        "reflect_speed": 60,
+        "projectile_speed": 0.75
+      },
+      "rockclod_red": {
+        "reflect_speed": 60,
+        "projectile_speed": 0.75
+      },
+      "goldclod": {
+        "reflect_speed": 60,
+        "projectile_speed": 0.75
+      },
+      "rockclod_purple": {
+        "reflect_speed": 60,
+        "projectile_speed": 0.75
+      },
+      "mistrilclod": {
+        "reflect_speed": 60,
+        "projectile_speed": 0.75,
+        "attack_sequence": 0,
+        "attack_legion": 0
+      }
+    },
+    "enchantern": {
+      "default": {
+        "charge_speed": 6,
+        "flee_speed": 0.1,
+        "aggro_radius": 10,
+        "drops_balls": false,
+        "attack_radius": 96,
+        "charge_timer": [
+          0,
+          10
+        ],
+        "projectile_timer": [
+          1,
+          10
+        ],
+        "windup": [
+          1,
+          10
+        ],
+        "waiting": [
+          500,
+          700
+        ],
+        "flee_timer": [
+          500,
+          700
+        ]
+      },
+      "enchantern": {
+        "drops_balls": false,
+        "charge_timer": [
+          0,
+          10
+        ],
+        "projectile_timer": [
+          1,
+          10
+        ],
+        "windup": [
+          1,
+          10
+        ],
+        "waiting": [
+          500,
+          700
+        ],
+        "flee_timer": [
+          500,
+          700
+        ]
+      },
+      "enchantern_blue": {
+        "drops_balls": false,
+        "charge_timer": [
+          0,
+          10
+        ],
+        "projectile_timer": [
+          1,
+          10
+        ],
+        "windup": [
+          1,
+          10
+        ],
+        "waiting": [
+          500,
+          700
+        ],
+        "flee_timer": [
+          500,
+          700
+        ]
+      }
+    },
+    "shroom": {
+        "mushroom_green": {
+          "explodes": false
+        },
+        "mushroom_blue": {
+          "fade_in_rate": 0,
+          "fade_out_rate": 0
+        },
+        "mushroom_purple": {
+          "spew_lava": false
+        }
+      },
+    "sap": {
+      "default": {
+        "attack_radius": 10,
+        "max_jump_radius": 10
+      },
+      "sapling_cool": {
+        "attack_radius": 10,
+        "max_jump_radius": 10
+      },
+      "sapling": {
+        "attack_radius": 10,
+        "max_jump_radius": 10
+      },
+      "sapling_blue": {
+        "attack_radius": 10,
+        "max_jump_radius": 10,
+        "sticky": false
+      },
+      "sapling_purple": {
+        "max_jump_radius": 68,
+        "attack_radius": 10,
+        "use_circle": false,
+        "free_fly": false
+      },
+      "sapling_orange": {
+        "attack_radius": 10,
+        "max_jump_radius": 10,
+        "sap_children_birth_timer": 20,
+        "sap_children_birth_distance": 15,
+        "sap_children": 4
+      },
+      "sapling_orange_mini": {
+        "attack_radius": 10,
+        "max_jump_radius": 10
+      },
+      "sapling_pink": {
+        "hp": 10,
+        "damage": 10,
+        "attack_radius": 10,
+        "max_jump_radius": 10,
+        "hyper_armor": 0
+      }
+    },
+    "mite": {
+      "default": {
+        "secondary_spikes": false,
+        "push_radius": 0,
+        "push_force": 0
+      },
+      "stalagmite": {
+        "secondary_spikes": false
+      },
+      "stalagmite_green": {
+        "secondary_spikes": false
+      },
+      "stalagmite_purple": {
+        "secondary_spikes": false
+      }
+    },
+    "cat": {
+      "default": {
+        "petrified_duration": 1000,
+        "knockback": 2,
+        "knockback_decline": 0.8,
+        "charge_range": 10
+      },
+      "cat": {
+        "charge_range": 10
+      },
+      "cat_void": {
+        "charge_range": 10
+      }
+    },
+    "spirit": {
+      "default": {
+        "projectile_turn_rate": 0.55,
+        "rotation_speed": 1,
+        "projectile_speed": 0.1,
+        "teleport_duration": [
+          0,
+          0
+        ],
+        "teleport_distance_from_player": [
+          0,
+          0
+        ],
+        "projectile_life_time": [
+          0,
+          0
+        ]
+      },
+      "spirit": {
+        "projectile_speed": 0.1,
+        "teleport_duration": [
+          0,
+          0
+        ],
+        "teleport_distance_from_player": [
+          0,
+          0
+        ],
+        "projectile_life_time": [
+          0,
+          0
+        ]
+      },
+      "spirit_purple": {
+        "projectile_speed": 0.1,
+        "rotation_speed": 1,
+        "teleport_duration": [
+          0,
+          0
+        ],
+        "teleport_distance_from_player": [
+          0,
+          0
+        ],
+        "projectile_life_time": [
+          0,
+          0
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "items": {
+    "furniture": {
+      "decor_picnic_set": {
+		  "picnic_sunflower_vase_pink": {
+          "recipe": [
+            {
+              "count": 3,
+              "item": "glass"
+            },
+            {
+              "count": 2,
+              "item": "fiber"
+            },
+            {
+              "hours": 0,
+              "minutes": 20
+            }
+          ]
+        },
+        "picnic_sunflower_vase_red": {
+          "recipe": [
+            {
+              "count": 3,
+              "item": "glass"
+            },
+            {
+              "count": 2,
+              "item": "sunflower"
+            },
+            {
+              "hours": 0,
+              "minutes": 20
+            }
+          ]
+          }
+        }
+	}
+  }
+}
