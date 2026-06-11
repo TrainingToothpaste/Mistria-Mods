@@ -1,0 +1,309 @@
+{
+	// UI ICONS //
+
+	"spr_ui_item_tool_silver_axe": {
+		"Location": "images/ui/spr_ui_item_tool_silver_axe_0.png",
+		"IsUiSprite": true
+},
+	"spr_ui_item_tool_silver_hoe": {
+		"Location": "images/ui/spr_ui_item_tool_silver_hoe_0.png",
+		"IsUiSprite": true
+},
+	"spr_ui_item_tool_silver_net": {
+		"Location": "images/ui/spr_ui_item_tool_silver_net_0.png",
+		"IsUiSprite": true
+},
+	"spr_ui_item_tool_silver_pickaxe": {
+		"Location": "images/ui/spr_ui_item_tool_silver_pickaxe_0.png",
+		"IsUiSprite": true
+},
+	"spr_ui_item_tool_silver_rod": {
+		"Location": "images/ui/spr_ui_item_tool_silver_rod_0.png",
+		"IsUiSprite": true
+},
+	"spr_ui_item_tool_silver_shovel": {
+		"Location": "images/ui/spr_ui_item_tool_silver_shovel_0.png",
+		"IsUiSprite": true
+},
+	"spr_ui_item_tool_silver_sword": {
+		"Location": "images/ui/spr_ui_item_tool_silver_sword_0.png",
+		"IsUiSprite": true
+},
+	"spr_ui_item_tool_silver_watering_can": {
+		"Location": "images/ui/spr_ui_item_tool_silver_watering_can_0.png",
+		"IsUiSprite": true
+},
+
+	// TOOL ANIMATIONS //
+
+	"spr_tool_axe_silver_tool_axe_e": {
+		"Location": "images/tool/tool_axe_e",
+		"IsAnimated": true
+},
+	"spr_tool_axe_silver_tool_axe_n": {
+		"Location": "images/tool/tool_axe_n",
+		"IsAnimated": true
+},
+	"spr_tool_axe_silver_tool_axe_s": {
+		"Location": "images/tool/tool_axe_s",
+		"IsAnimated": true
+},
+	"spr_tool_axe_silver_tool_effect_axe_e": {
+		"Location": "images/tool/tool_effect_axe_e",
+		"IsAnimated": true
+},
+	"spr_tool_axe_silver_tool_effect_axe_n": {
+		"Location": "images/tool/tool_effect_axe_n",
+		"IsAnimated": true
+},
+	"spr_tool_axe_silver_tool_effect_axe_s": {
+		"Location": "images/tool/tool_effect_axe_s",
+		"IsAnimated": true
+},
+	"spr_tool_fishing_rod_silver_fish_bite_e": {
+		"Location": "images/tool/fish_bite_e",
+		"IsAnimated": true
+},
+	"spr_tool_fishing_rod_silver_fish_bite_n": {
+		"Location": "images/tool/fish_bite_n",
+		"IsAnimated": true
+},
+	"spr_tool_fishing_rod_silver_fish_bite_s": {
+		"Location": "images/tool/fish_bite_s",
+		"IsAnimated": true
+},
+	"spr_tool_fishing_rod_silver_fish_cast_e": {
+		"Location": "images/tool/fish_cast_e",
+		"IsAnimated": true
+},
+	"spr_tool_fishing_rod_silver_fish_cast_n": {
+		"Location": "images/tool/fish_cast_n",
+		"IsAnimated": true
+},
+	"spr_tool_fishing_rod_silver_fish_cast_s": {
+		"Location": "images/tool/fish_cast_s",
+		"IsAnimated": true
+},
+	"spr_tool_fishing_rod_silver_fish_reel_e": {
+		"Location": "images/tool/fish_reel_e",
+		"IsAnimated": true
+},
+	"spr_tool_fishing_rod_silver_fish_reel_n": {
+		"Location": "images/tool/fish_reel_n",
+		"IsAnimated": true
+},
+	"spr_tool_fishing_rod_silver_fish_reel_s": {
+		"Location": "images/tool/fish_reel_s",
+		"IsAnimated": true
+},
+	"spr_tool_hoe_silver_charge_hoe_e": {
+		"Location": "images/tool/charge_hoe_e",
+		"IsAnimated": true
+},
+	"spr_tool_hoe_silver_charge_hoe_n": {
+		"Location": "images/tool/charge_hoe_n",
+		"IsAnimated": true
+},
+	"spr_tool_hoe_silver_charge_hoe_s": {
+		"Location": "images/tool/charge_hoe_s",
+		"IsAnimated": true
+},
+	"spr_tool_hoe_silver_till_e": {
+		"Location": "images/tool/till_e",
+		"IsAnimated": true
+},
+	"spr_tool_hoe_silver_till_n": {
+		"Location": "images/tool/till_n",
+		"IsAnimated": true
+},
+	"spr_tool_hoe_silver_till_s": {
+		"Location": "images/tool/till_s",
+		"IsAnimated": true
+},
+	"spr_tool_net_silver_tool_effect_net_e": {
+		"Location": "images/tool/tool_effect_net_e",
+		"IsAnimated": true
+},
+	"spr_tool_net_silver_tool_effect_net_n": {
+		"Location": "images/tool/tool_effect_net_n",
+		"IsAnimated": true
+},
+	"spr_tool_net_silver_tool_effect_net_s": {
+		"Location": "images/tool/tool_effect_net_s",
+		"IsAnimated": true
+},
+	"spr_tool_net_silver_tool_net_e": {
+		"Location": "images/tool/tool_net_e",
+		"IsAnimated": true
+},
+	"spr_tool_net_silver_tool_net_n": {
+		"Location": "images/tool/tool_net_n",
+		"IsAnimated": true
+},
+	"spr_tool_net_silver_tool_net_s": {
+		"Location": "images/tool/tool_net_s",
+		"IsAnimated": true
+},
+	"spr_tool_pick_axe_silver_tool_axe_e": {
+		"Location": "images/tool/tool_pickaxe_e",
+		"IsAnimated": true
+},
+	"spr_tool_pick_axe_silver_tool_axe_n": {
+		"Location": "images/tool/tool_pickaxe_n",
+		"IsAnimated": true
+},
+	"spr_tool_pick_axe_silver_tool_axe_s": {
+		"Location": "images/tool/tool_pickaxe_s",
+		"IsAnimated": true
+},
+	"spr_tool_pick_axe_silver_tool_effect_axe_e": {
+		"Location": "images/tool/tool_effect_pickaxe_e",
+		"IsAnimated": true
+},
+	"spr_tool_pick_axe_silver_tool_effect_axe_n": {
+		"Location": "images/tool/tool_effect_pickaxe_n",
+		"IsAnimated": true
+},
+	"spr_tool_pick_axe_silver_tool_effect_axe_s": {
+		"Location": "images/tool/tool_effect_pickaxe_s",
+		"IsAnimated": true
+},
+	"spr_tool_shovel_silver_shovel_e": {
+		"Location": "images/tool/shovel_e",
+		"IsAnimated": true
+},
+	"spr_tool_shovel_silver_shovel_n": {
+		"Location": "images/tool/shovel_n",
+		"IsAnimated": true
+},
+	"spr_tool_shovel_silver_shovel_s": {
+		"Location": "images/tool/shovel_s",
+		"IsAnimated": true
+},
+	"spr_tool_watering_can_silver_water_e": {
+		"Location": "images/tool/water_e",
+		"IsAnimated": true
+},
+	"spr_tool_watering_can_silver_water_n": {
+		"Location": "images/tool/water_n",
+		"IsAnimated": true
+},
+	"spr_tool_watering_can_silver_water_s": {
+		"Location": "images/tool/water_s",
+		"IsAnimated": true
+},
+
+	// SWORD ANIMATIONS //
+
+	"spr_weapon_sword_silver_tool_combo1_e": {
+		"Location": "images/weapon/combo1_e",
+		"IsAnimated": true
+},
+	"spr_weapon_sword_silver_tool_combo1_n": {
+		"Location": "images/weapon/combo1_n",
+		"IsAnimated": true
+},
+	"spr_weapon_sword_silver_tool_combo1_s": {
+		"Location": "images/weapon/combo1_s",
+		"IsAnimated": true
+},
+	"spr_weapon_sword_silver_tool_combo2_e": {
+		"Location": "images/weapon/combo2_e",
+		"IsAnimated": true
+},
+	"spr_weapon_sword_silver_tool_combo2_n": {
+		"Location": "images/weapon/combo2_n",
+		"IsAnimated": true
+},
+	"spr_weapon_sword_silver_tool_combo2_s": {
+		"Location": "images/weapon/combo2_s",
+		"IsAnimated": true
+},
+	"spr_weapon_sword_silver_tool_combo3_e": {
+		"Location": "images/weapon/combo3_e",
+		"IsAnimated": true
+},
+	"spr_weapon_sword_silver_tool_combo3_n": {
+		"Location": "images/weapon/combo3_n",
+		"IsAnimated": true
+},
+	"spr_weapon_sword_silver_tool_combo3_s": {
+		"Location": "images/weapon/combo3_s",
+		"IsAnimated": true
+},
+	"spr_weapon_sword_silver_tool_effect_combo1_e": {
+		"Location": "images/weapon/effect_combo1_e",
+		"IsAnimated": true
+},
+	"spr_weapon_sword_silver_tool_effect_combo1_n": {
+		"Location": "images/weapon/effect_combo1_n",
+		"IsAnimated": true
+},
+	"spr_weapon_sword_silver_tool_effect_combo1_s": {
+		"Location": "images/weapon/effect_combo1_s",
+		"IsAnimated": true
+},
+	"spr_weapon_sword_silver_tool_effect_combo2_e": {
+		"Location": "images/weapon/effect_combo2_e",
+		"IsAnimated": true
+},
+	"spr_weapon_sword_silver_tool_effect_combo2_n": {
+		"Location": "images/weapon/effect_combo2_n",
+		"IsAnimated": true
+},
+	"spr_weapon_sword_silver_tool_effect_combo2_s": {
+		"Location": "images/weapon/effect_combo2_s",
+		"IsAnimated": true
+},
+	"spr_weapon_sword_silver_tool_effect_combo3_e": {
+		"Location": "images/weapon/effect_combo3_e",
+		"IsAnimated": true
+},
+	"spr_weapon_sword_silver_tool_effect_combo3_n": {
+		"Location": "images/weapon/effect_combo3_n",
+		"IsAnimated": true
+},
+	"spr_weapon_sword_silver_tool_effect_combo3_s": {
+		"Location": "images/weapon/effect_combo3_s",
+		"IsAnimated": true
+},
+	"spr_weapon_sword_silver_tool_effect_critical_combo1_e": {
+		"Location": "images/weapon/effect_critical_combo1_e",
+		"IsAnimated": true
+},
+	"spr_weapon_sword_silver_tool_effect_critical_combo1_n": {
+		"Location": "images/weapon/effect_critical_combo1_n",
+		"IsAnimated": true
+},
+	"spr_weapon_sword_silver_tool_effect_critical_combo1_s": {
+		"Location": "images/weapon/effect_critical_combo1_s",
+		"IsAnimated": true
+},
+	"spr_weapon_sword_silver_tool_effect_critical_combo2_e": {
+		"Location": "images/weapon/effect_critical_combo2_e",
+		"IsAnimated": true
+},
+	"spr_weapon_sword_silver_tool_effect_critical_combo2_n": {
+		"Location": "images/weapon/effect_critical_combo2_n",
+		"IsAnimated": true
+},
+	"spr_weapon_sword_silver_tool_effect_critical_combo2_s": {
+		"Location": "images/weapon/effect_critical_combo2_s",
+		"IsAnimated": true
+},
+	"spr_weapon_sword_silver_tool_effect_critical_combo3_e": {
+		"Location": "images/weapon/effect_critical_combo3_e",
+		"IsAnimated": true
+},
+	"spr_weapon_sword_silver_tool_effect_critical_combo3_n": {
+		"Location": "images/weapon/effect_critical_combo3_n",
+		"IsAnimated": true
+},
+	"spr_weapon_sword_silver_tool_effect_critical_combo3_s": {
+		"Location": "images/weapon/effect_critical_combo3_s",
+		"IsAnimated": true
+},
+	"spr_weapon_sword_silver_tool_down_attack_e": {
+		"Location": "images/weapon/spr_weapon_sword_silver_tool_down_attack_e_0.png"
+	}
+}

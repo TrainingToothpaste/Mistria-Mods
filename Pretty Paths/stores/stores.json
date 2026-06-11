@@ -1,0 +1,47 @@
+
+{
+  "items": [
+    {
+      "item":  "pathing_scroll_bundle", 
+      "store": "general",
+      "category": "pathing_store_icon"
+    },
+    {
+      "item":  "pathing_bricks", 
+      "store": "general",
+      "category": "pathing_store_icon"
+    },
+    {
+      "item":  "pathing_fairy", 
+      "store": "general",
+      "category": "pathing_store_icon"
+    },
+    {
+      "item":  "pathing_mossy", 
+      "store": "general",
+      "category": "pathing_store_icon"
+    },
+    {
+      "item":  "pathing_dirt", 
+      "store": "general",
+      "category": "pathing_store_icon"
+    },
+    {
+      "item":  "pathing_stonedirt", 
+      "store": "general",
+      "category": "pathing_store_icon"
+    },
+    {
+      "item":  "pathing_stoney", 
+      "store": "general",
+      "category": "pathing_store_icon"
+    }
+  ],
+  "categories": [
+    {
+      "store": "general",
+      "icon_name": "pathing_store_icon",
+      "sprite": "images/pathing_icon.png"
+    }
+  ]
+}
