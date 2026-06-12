@@ -1,0 +1,360 @@
+{
+  "spr_furniture_stone_storage_chest_spring_v1_bounce": {
+    "IsAnimated": true,
+    "Location": "images/fridge/v1/bounce",
+    "OriginX": 16,
+    "OriginY": 56,
+    "MarginLeft": 3,
+    "MarginRight": 29,
+    "MarginBottom": 39,
+    "MarginTop": 15
+  },
+  "spr_furniture_stone_storage_chest_spring_v1_opening": {
+    "IsAnimated": true,
+    "Location": "images/fridge/v1/opening",
+    "OriginX": 16,
+    "OriginY": 56,
+    "MarginLeft": 3,
+    "MarginRight": 29,
+    "MarginBottom": 39,
+    "MarginTop": 15
+  },
+  "spr_furniture_stone_storage_chest_spring_v1_closed": {
+    "Location": "images/fridge/v1/closed.png",
+    "OriginX": 16,
+    "OriginY": 56,
+    "MarginLeft": 3,
+    "MarginRight": 29,
+    "MarginBottom": 39,
+    "MarginTop": 15
+  },
+  "spr_furniture_stone_storage_chest_spring_v1_opened": {
+    "Location": "images/fridge/v1/opened.png",
+    "OriginX": 16,
+    "OriginY": 56,
+    "MarginLeft": 3,
+    "MarginRight": 29,
+    "MarginBottom": 39,
+    "MarginTop": 15
+  },
+  "spr_furniture_stone_storage_chest_spring_v2_bounce": {
+    "IsAnimated": true,
+    "Location": "images/fridge/v2/bounce",
+    "OriginX": 16,
+    "OriginY": 56,
+    "MarginLeft": 3,
+    "MarginRight": 29,
+    "MarginBottom": 39,
+    "MarginTop": 15
+  },
+  "spr_furniture_stone_storage_chest_spring_v2_opening": {
+    "IsAnimated": true,
+    "Location": "images/fridge/v2/opening",
+    "OriginX": 16,
+    "OriginY": 56,
+    "MarginLeft": 3,
+    "MarginRight": 29,
+    "MarginBottom": 39,
+    "MarginTop": 15
+  },
+  "spr_furniture_stone_storage_chest_spring_v2_closed": {
+    "Location": "images/fridge/v2/closed.png",
+    "OriginX": 16,
+    "OriginY": 56,
+    "MarginLeft": 3,
+    "MarginRight": 29,
+    "MarginBottom": 39,
+    "MarginTop": 15
+  },
+  "spr_furniture_stone_storage_chest_spring_v2_opened": {
+    "Location": "images/fridge/v2/opened.png",
+    "OriginX": 16,
+    "OriginY": 56,
+    "MarginLeft": 3,
+    "MarginRight": 29,
+    "MarginBottom": 39,
+    "MarginTop": 15
+  },
+  "spr_furniture_stone_storage_chest_spring_v3_bounce": {
+    "IsAnimated": true,
+    "Location": "images/fridge/v3/bounce",
+    "OriginX": 16,
+    "OriginY": 56,
+    "MarginLeft": 3,
+    "MarginRight": 29,
+    "MarginBottom": 39,
+    "MarginTop": 15
+  },
+  "spr_furniture_stone_storage_chest_spring_v3_opening": {
+    "IsAnimated": true,
+    "Location": "images/fridge/v3/opening",
+    "OriginX": 16,
+    "OriginY": 56,
+    "MarginLeft": 3,
+    "MarginRight": 29,
+    "MarginBottom": 39,
+    "MarginTop": 15
+  },
+  "spr_furniture_stone_storage_chest_spring_v3_closed": {
+    "Location": "images/fridge/v3/closed.png",
+    "OriginX": 16,
+    "OriginY": 56,
+    "MarginLeft": 3,
+    "MarginRight": 29,
+    "MarginBottom": 39,
+    "MarginTop": 15
+  },
+  "spr_furniture_stone_storage_chest_spring_v3_opened": {
+    "Location": "images/fridge/v3/opened.png",
+    "OriginX": 16,
+    "OriginY": 56,
+    "MarginLeft": 3,
+    "MarginRight": 29,
+    "MarginBottom": 39,
+    "MarginTop": 15
+  },
+  "spr_furniture_stone_storage_chest_shadow_closed": {
+    "Location": "images/fridge/shadow.png",
+    "OriginX": 16,
+    "OriginY": 56,
+    "MarginLeft": 3,
+    "MarginRight": 29,
+    "MarginBottom": 39,
+    "MarginTop": 15
+  },
+  "spr_furniture_stone_storage_chest_shadow_opened": {
+    "Location": "images/fridge/shadow.png",
+    "OriginX": 16,
+    "OriginY": 56,
+    "MarginLeft": 3,
+    "MarginRight": 29,
+    "MarginBottom": 39,
+    "MarginTop": 15
+  },
+  "spr_furniture_stone_storage_chest_shadow_bounce": {
+    "Location": "images/fridge/shadow.png",
+    "OriginX": 16,
+    "OriginY": 56,
+    "MarginLeft": 3,
+    "MarginRight": 29,
+    "MarginBottom": 39,
+    "MarginTop": 15
+  },
+  "spr_furniture_stone_storage_chest_shadow_opening": {
+    "Location": "images/fridge/shadow.png",
+    "OriginX": 16,
+    "OriginY": 56,
+    "MarginLeft": 3,
+    "MarginRight": 29,
+    "MarginBottom": 39,
+    "MarginTop": 15
+  },
+  "spr_ui_item_decor_stone_storage_chest_v1": {
+    "IsUiSprite": true,
+    "Location": "images/fridge/v1/UI_icon.png"
+  },
+  "spr_ui_item_decor_stone_storage_chest_v1_outline": {
+    "IsUiSprite": true,
+    "Location": "images/fridge/v1/UI_icon_outline.png"
+},
+  "spr_ui_item_decor_stone_storage_chest_v2": {
+    "IsUiSprite": true,
+    "Location": "images/fridge/v2/UI_icon.png"
+  },
+  "spr_ui_item_decor_stone_storage_chest_v2_outline": {
+    "IsUiSprite": true,
+    "Location": "images/fridge/v2/UI_icon_outline.png"
+},
+  "spr_ui_item_decor_stone_storage_chest_v3": {
+    "IsUiSprite": true,
+    "Location": "images/fridge/v3/UI_icon.png"
+  },
+  "spr_ui_item_decor_stone_storage_chest_v3_outline": {
+    "IsUiSprite": true,
+    "Location": "images/fridge/v3/UI_icon_outline.png"
+  },
+    "spr_furniture_stone_dragon_figure_spring_v1_south": {
+    "Location": "images/poufs/v1/v1.png"
+},
+    "spr_furniture_stone_dragon_figure_shadow_south": {
+    "Location": "images/poufs/shadow.png"
+},
+     "spr_ui_item_decor_stone_dragon_figure_v1": {
+    "Location": "images/poufs/v1/UI_icon.png",
+    "IsUiSprite": true
+},
+    "spr_ui_item_decor_stone_dragon_figure_v1_outline": {
+    "Location": "images/poufs/v1/UI_icon_outline.png",
+    "IsUiSprite": true
+},
+    "spr_furniture_stone_dragon_figure_spring_v2_south": {
+    "Location": "images/poufs/v2/v2.png"
+},
+    "spr_furniture_stone_dragon_figure_shadow_south": {
+    "Location": "images/poufs/shadow.png"
+},
+    "spr_ui_item_decor_stone_dragon_figure_v2": {
+    "Location": "images/poufs/v2/UI_icon.png",
+    "IsUiSprite": true
+},
+    "spr_ui_item_decor_stone_dragon_figure_v2_outline": {
+    "Location": "images/poufs/v2/UI_icon_outline.png",
+    "IsUiSprite": true
+},
+    "spr_object_wall_calendar_spring": {
+    "Location": "images/plants/hanging/hanging.png"
+},
+    "spr_ui_item_object_wall_calendar": {
+    "Location": "images/plants/hanging/UI_icon.png",
+    "IsUiSprite": true
+},
+    "spr_ui_item_object_wall_calendar_outline": {
+    "Location": "images/plants/hanging/UI_icon_outline.png",
+    "IsUiSprite": true
+},
+    "spr_furniture_mistria_wall_map": {
+    "Location": "images/plants/shelf_large/large.png"
+},
+    "spr_ui_item_decor_mistria_wall_map": {
+    "Location": "images/plants/shelf_large/UI_icon.png",
+    "IsUiSprite": true
+},
+    "spr_ui_item_decor_mistria_wall_map_outline": {
+    "Location": "images/plants/shelf_large/UI_icon_outline.png",
+    "IsUiSprite": true
+},
+    "spr_furniture_cabin_wall_shelf_v3_spring": {
+    "Location": "images/plants/shelf_small/small.png"
+},
+    "spr_ui_item_furniture_cabin_wall_shelf_v3": {
+    "Location": "images/plants/shelf_small/UI_icon.png",
+    "IsUiSprite": true
+},
+    "spr_ui_item_object_wall_calendar_outline": {
+    "Location": "images/plants/shelf_small/UI_icon_outline.png",
+    "IsUiSprite": true
+},
+    "spr_decor_bakery_cake_case_v1_spring": {
+    "Location": "images/pillow_pile/pillow_pile.png"
+},
+    "spr_decor_bakery_cake_case_v1_shadow": {
+    "Location": "images/pillow_pile/shadow.png"
+},
+    "spr_ui_item_decor_bakery_cake_case_v1": {
+    "Location": "images/pillow_pile/UI_icon.png",
+    "IsUiSprite": true
+},
+    "spr_ui_item_decor_bakery_cake_case_v1_outline": {
+    "Location": "images/pillow_pile/UI_icon_outline.png",
+    "IsUiSprite": true
+},
+  "spr_furniture_large_paving_stone_v1": {
+    "Location": "images/paths/large_v1/v1.png"
+},
+  "spr_ui_item_decor_large_paving_stone_v1": {
+  "Location": "images/paths/large_v1/UI_icon.png",
+  "IsUiSprite": true
+},
+  "spr_furniture_large_paving_stone_v2": {
+    "Location": "images/paths/large_v2/v2.png"
+},
+  "spr_decor_starter_stone_path_spring_1": {
+    "Location": "images/paths/small_v1/spring.png"
+},
+  "spr_decor_starter_stone_path_summer_1": {
+    "Location": "images/paths/small_v1/summer.png"
+},
+  "spr_decor_starter_stone_path_autumn_1": {
+    "Location": "images/paths/small_v1/autumn.png"
+},
+  "spr_decor_starter_stone_path_winter_1": {
+    "Location": "images/paths/small_v1/winter.png"
+},
+  "spr_decor_starter_stone_path_shadow_1": {
+    "Location": "images/paths/small_v1/shadow.png"
+},
+  "spr_ui_item_decor_starter_stone_path": {
+  "Location": "images/paths/small_v1/UI_icon.png",
+  "IsUiSprite": true
+},
+  "spr_ui_item_decor_starter_stone_path_outline": {
+  "Location": "images/paths/small_v1/UI_icon_outline.png",
+  "IsUiSprite": true
+},
+  "spr_decor_starter_stone_path_spring_2": {
+    "Location": "images/paths/small_v2/spring.png"
+},
+  "spr_decor_starter_stone_path_summer_2": {
+    "Location": "images/paths/small_v2/summer.png"
+},
+  "spr_decor_starter_stone_path_autumn_2": {
+    "Location": "images/paths/small_v2/autumn.png"
+},
+  "spr_decor_starter_stone_path_winter_2": {
+    "Location": "images/paths/small_v2/winter.png"
+},
+  "spr_decor_starter_stone_path_shadow_2": {
+    "Location": "images/paths/small_v2/shadow.png"
+},
+  "spr_ui_item_decor_starter_stone_path_single": {
+  "Location": "images/paths/small_v2/UI_icon.png",
+  "IsUiSprite": true
+},
+  "spr_ui_item_decor_starter_stone_path_single_outline": {
+  "Location": "images/paths/small_v2/UI_icon_outline.png",
+  "IsUiSprite": true
+},
+  "spr_furniture_dragon_priestess_fountain_spring_v1_south": {
+    "Location": "images/paths/statue/v1.png"
+},
+  "spr_furniture_dragon_priestess_fountain_spring_v2_south": {
+    "Location": "images/paths/statue/v2.png"
+},
+  "spr_furniture_dragon_priestess_fountain_shadow_south": {
+    "Location": "images/paths/statue/shadow.png"
+},
+  "spr_furniture_spring_rug_purple": {
+  "Location": "images/rugs/pink/pink.png"
+},
+  "spr_ui_item_furniture_spring_rug_purple": {
+    "Location": "images/rugs/pink/UI_icon.png",
+    "IsUiSprite": true
+},
+  "spr_ui_item_furniture_spring_rug_purple_outline": {
+    "Location": "images/rugs/pink/UI_icon_outline.png",
+    "IsUiSprite": true
+},
+  "spr_furniture_spring_rug_orange": {
+  "Location": "images/rugs/ivory/ivory.png"
+},
+  "spr_ui_item_furniture_spring_rug_orange": {
+    "Location": "images/rugs/ivory/UI_icon.png",
+    "IsUiSprite": true
+},
+  "spr_ui_item_furniture_spring_rug_orange_outline": {
+    "Location": "images/rugs/ivory/UI_icon_outline.png",
+    "IsUiSprite": true
+},
+  "spr_furniture_summer_rug_red": {
+  "Location": "images/rugs/summer/red.png"
+},
+  "spr_furniture_summer_rug_yellow": {
+  "Location": "images/rugs/summer/yellow.png"
+},
+    "spr_furniture_spring_sofa_pink_spring_east": {
+    "Location": "images/sofa/east.png"
+},
+    "spr_furniture_spring_sofa_pink_spring_north": {
+    "Location": "images/sofa/north.png"
+},
+    "spr_furniture_spring_sofa_pink_spring_south": {
+    "Location": "images/sofa/south.png"
+},
+    "spr_furniture_spring_sofa_pink_spring_top_east": {
+    "Location": "images/sofa/top_east.png"
+},
+    "spr_ui_item_furniture_spring_sofa_pink": {
+    "Location": "images/sofa/UI_icon.png",
+    "IsUiSprite": true
+  }
+}
